@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+feedparser
+lxml
+google-genai
+pytz
+edge-tts
+markdown

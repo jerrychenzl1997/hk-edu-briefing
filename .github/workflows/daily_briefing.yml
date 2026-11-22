@@ -1,0 +1,46 @@
+name: Daily HK Education Briefing
+
+on:
+  schedule:
+    - cron: '45 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run news collector, Apify dual-track & 30-day JSON archive
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          python collector.py
+
+      - name: Generate briefing, Microsoft TTS audio, mobile HTML & push to WeChat
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+        run: |
+          python briefing_generator.py
+
+      - name: Commit archive, latest raw JSON, audio, HTML & tracker state
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add latest_briefing.md latest_briefing.mp3 index.html latest_edu_raw.json event_tracker.json archive/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update daily briefing, TTS audio & archive [skip ci]"
+          git push
