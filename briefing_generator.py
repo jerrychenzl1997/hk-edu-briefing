@@ -347,7 +347,8 @@ def push_to_wechat(title, markdown_content):
         "token": PUSHPLUS_TOKEN,
         "title": title,
         "content": header_banner + markdown_content,
-        "template": "markdown"
+        "template": "markdown",
+        "topic": os.environ.get("PUSHPLUS_TOPIC", "hk-edu-briefing-Git").strip()
     }
     resp = requests.post(url, json=payload, timeout=20)
     print(f"PushPlus 推送結果：{resp.text}")
