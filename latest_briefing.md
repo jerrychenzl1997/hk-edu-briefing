@@ -7,82 +7,66 @@
 
 ### 📌 今日教育頭條
 
-#### 1. 蔡若蓮風雨跋涉33小時完成百公里「毅行者」 官員體育實踐與學界抗逆力教育引熱議
-* **核心事實**：教育局局長蔡若蓮聯同「毅行先生」，在風雨交加的惡劣天氣下歷時33小時，成功走畢長達100公里的麥理浩徑完成「樂施毅行者」挑戰。蔡若蓮事後透露，背後經歷了超過1500公里的系統性訓練，方能克服體能極限並化「不可能為可能」。此項體能考驗迅速成為各大主流傳媒與社交網絡的關注焦點。 `[星島頭條]`  
-* **影響解讀**：作為問責局長，蔡若蓮身體力行完成超長距離耐力越野，在官方形象建構上展現了極高的意志力與毅力，亦為當局近年大力倡導的「身心健康」及「抗逆力教育」提供了極具說服力的個人示範。然而，在社交網絡上，官方倡導的堅毅精神與部分前線公眾對於學業壓力、教育體制調整的情緒反饋形成鮮明對比，反映出官員個人實踐轉化為政策認同過程中存在的溝通落差。  
-* **相關連結**：[原文](https://news.google.com/rss/articles/CBMilgNBVV95cUxPaGpyRUx5ZnlZTHFCX3hfQm1uaTFQUWoyRy1rUG9RUEplTlZCRldYY3JrQmwxRllURVRUZTdkdTZkWXhrYWVRdHBPaDFweExNc1pqYlZOWHJxZ0Vac3lGXzRWdElmN3hlYmNHdFphN0pzVl9ac1FLcElEZWJBeENIOUZ0d0hYdmlGWUhJTkxRZzl6RC1QSHpkeUtORHFtMGhGN0pmLUdqZUU2UHFRQXU4dnBZWFdvVVhGclc1T2NjUEYtbzlaZ29IQUx6N2JuUmc4ZnNHN3BISVpmb2t0aUNkajJ0RzF3dzh0WG9rUXVYYmNOa3dvTFpiM2VGaDhENmw5UGc4SGFIb1NkXzNJbi12aWtuNXBxVnNld0k0QnRWNmFyZ1lQdlpybTF0RThRa1J2SXk3d1ZuUGNvSEVobXRoLWtQYkx0ejkwR0hycjlHWFFadkZwZ2t2OUMxYzlDUHF3c21vYVN4V21fV0hNWVMyTFBOVU45ckFONUZrTWtqYTdtcS1iakhtbTZaNFJNS0RFR254Vlln?oc=5)
+#### 1. 質疑教師執業證書「三年一續」機制 馮志豪撰文促勿以官僚考核損害專業自主
+* **核心事實**：針對教育界持續研議之教師註冊與執業證書機制變革，資深教育工作者馮志豪於傳媒發表專題評論，直指「教師執業證書三年一續」的構想潛藏高度官僚化風險，呼籲當局切勿以繁複的行政審查、定期重新考核程序，取代教育界長期積累的專業自主與專業信任。文章刊出後，迅速在教育行政界、學校管理層及前線教師群體間引發廣泛共鳴與深度思辨。 `[香港01]`
+* **影響解讀**：隨着近年教師專業操守指引趨嚴，執業資格若從傳統的長期註冊模式轉向具年期限制的定期續期，意味前線教師或須面臨持續的行政合規審核、國安培訓認證及進修學分達標等硬性要求。政策分析師指出，定期續證雖有助官方掌握師資隊伍合規狀態，但在學齡人口收縮、縮班殺校陰霾未散的背景下，此舉恐進一步加劇教師的職業倦怠與離職流失率，如何在保障教學質量與避免官僚主義過度介入之間取得平衡，成為局方亟待審慎拿捏的重大政策挑戰。
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMijwNBVV95cUxNUTJTTks1RE5vN3E0VzZ6X004MU11UTJuYVMxQ3pnWXJjTnQ1TEtGTWNtQ1dPQkN2S1NlNEtkc2lCa3Z5Ylk3MnFWV3FhOVRDQnNQbmg4QzVEbmpncktMLWhkUWZkR1hHeEltaFZhM3hXRk1FY3NrVkZQZ3hNUnppdnJyMjN3WUc2bmpLc0FOWlhKQ21hczZaRzFUYWd2bjNjQkxuRXp5M2N4aFRNTkRBS2t2alNVQzFyNC1weVlGaUNqV0lTOGlid29rd204S180ZFRqUXdUV0xoTUFGelhuZ1BjcHJzWEdERXVrY2tTLTkzZjJqN3FZMnFVRlpsOEpTZDY3WUJhZjdySDhyZFVGRGFQeWJGa1VXcm1fZDViaDZaN1MyQlpUbU1CS1BxRFYwS1Aya0RWZnhfSUdzQjJMOVZsVXE2WW8xYjRHX1lIejQ5RkpLbUE2YnYxTVBRc3MycmpQTjJ4ckxsYnhWWHpkQkRTWWhsa3hORVp1a0VsMjRfMlpsd1BKU2hSWGtZa1U)
 
-#### 2. 學界熱議教師執業證書「三年一續」 評論疾呼防範官僚指標侵蝕教學專業
-* **核心事實**：教育界學者馮志豪撰文深入剖析近年探討的「教師執業證書三年一續」機制，直言該倡議存在巨大隱患，呼籲主管部門「切勿用官僚行政程序取代教育專業」。文章指出，過度頻密的審批機制恐將迫使教師耗費大量精力和時間去累積形式化指標、拼湊進修時數，反而削弱其投入日常教學與關顧學生的實質時間。 `[香港01]`  
-* **影響解讀**：隨着教育局進一步收緊教師專業操守及資歷常態化審核，如何平衡「把關防線」與「教育專業自主」已成為學界核心矛盾。面對教師流失與前線工作負荷過重的現實，若強行引入週期性續牌考核，恐加劇基層教師的職業倦怠感與離職傾向。此文在學界引起廣泛共鳴，預料將促使教育團體就續牌細則、評審透明度及減輕行政負擔等議題展開新一輪遊說。  
-* **相關連結**：[原文](https://news.google.com/rss/articles/CBMijwNBVV95cUxNUTJTTks1RE5vN3E0VzZ6X004MU11UTJuYVMxQ3pnWXJjTnQ1TEtGTWNtQ1dPQkN2S1NlNEtkc2lCa3Z5Ylk3MnFWV3FhOVRDQnNQbmg4QzVEbmpncktMLWhkUWZkR1hHeEltaFZhM3hXRk1FY3NrVkZQZ3hNUnppdnJyMjN3WUc2bmpLc0FOWlhKQ21hczZaRzFUYWd2bjNjQkxuRXp5M2N4aFRNTkRBS2t2alNVQzFyNC1weVlGaUNqV0lTOGlid29rd204S180ZFRqUXdUV0xoTUFGelhuZ1BjcHJzWEdERXVrY2tTLTkzZjJqN3FZMnFVRlpsOEpTZDY3WUJhZjdySDhyZFVGRGFQeWJGa1VXcm1fZDViaDZaN1MyQlpUbU1CS1BxRFYwS1Aya0RWZnhfSUdzQjJMOVZsVXE2WW8xYjRHX1lIejQ5RkpLbUE2YnYxTVBRc3MycmpQTjJ4ckxsYnhWWHpkQkRTWWhsa3hORVp1a0VsMjRfMlpsd1BKU2hSWGtZa1U?oc=5)
+---
 
-#### 3. 內地生赴港轉考DSE引發「文化逆差」熱議 考制紅利背後的適應困局浮出水面
-* **核心事實**：一名由內地高考賽道轉至香港報考DSE的學生，在社交媒體公開哭訴赴港應試面臨的巨大痛苦，發出「香港空氣加了什麼」的崩潰感嘆，抱怨香港生活節奏急促、兩地教學評核差異及孤獨感，導致其「幸福感歸零」。該言論經傳媒廣泛報導後，迅速引爆兩地教育論壇與社區討論。 `[聯合新聞網]`  
-* **影響解讀**：近年受政策優惠及升學中介宣傳影響，「內地生轉考DSE」被包裝為通往國際名校與香港頂尖大學的「綠色通道」。然而，此案例揭示了非本地考生在面對DSE全英語試卷、高標準批判性思考要求及文化語言差異時所承受的極端心理壓力。「考制紅利」背後隱藏着巨大的適應成本，這提醒家長在進行跨境教育規劃時，切勿忽視學童的心理承載力與社會化融合能力。  
-* **相關連結**：[原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tblJ6Nm9BTU5Pb1NSejRUSlRXMW05ZFJVQmFJN3BvOFZwNkpKV1BkTFRVU2dCLU1TVUtHVVNGdHdRQ29vWlU1X2VlOXFCbnRv?oc=5)
+#### 2. 蔡若蓮風雨33小時完成百公里「毅行者」 官員體育實踐與基層學界情緒形成張力
+* **核心事實**：教育局局長蔡若蓮聯同「毅行先生」歷經惡劣天氣，以33小時完成全長100公里的「樂施毅行者」麥理浩徑挑戰。蔡若蓮透露背後透過累計達1500公里的扎實特訓成就此項考驗，並強調「化不可能為可能」的堅毅信念。此舉成為主流媒體廣泛報道的政界焦點，官方亦藉此宣導全人健康與抗逆力培育。 `[星島頭條]`
+* **影響解讀**：作為問責局長，蔡若蓮展現出極強的個人紀律與意志力，在官方論述中為近年學界推動的「身心健康」及「堅毅抗逆教育」提供了具象的榜樣示範。然而，在民間教育社群及網絡討論中，此項個人成就亦引發複雜回響。部分前線教師及網民認為，在學生精神健康危機與學業重負未獲根本緩解之際，官員的高調宣傳反而折射出施政資源傾斜與公眾生活現實之間的距離感，如何將體育堅毅精神轉化為制度性支持政策，仍是焦點所在。
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMilgNBVV95cUxPaGpyRUx5ZnlZTHFCX3hfQm1uaTFQUWoyRy1rUG9RUEplTlZCRldYY3JrQmwxRllURVRUZTdkdTZkWXhrYWVRdHBPaDFweExNc1pqYlZOWHJxZ0Vac3lGXzRWdElmN3hlYmNHdFphN0pzVl9ac1FLcElEZWJBeENIOUZ0d0hYdmlGWUhJTkxRZzl6RC1QSHpkeUtORHFtMGhGN0pmLUdqZUU2UHFRQXU4dnBZWFdvVVhGclc1T2NjUEYtbzlaZ29IQUx6N2JuUmc4ZnNHN3BISVpmb2t0aUNkajJ0RzF3dzh0WG9rUXVYYmNOa3dvTFpiM2VGaDhENmw5UGc4SGFIb1NkXzNJbi12aWtuNXBxVnNld0k0QnRWNmFyZ1lQdlpybTF0RThRa1J2SXk3d1ZuUGNvSEVobXRoLWtQYkx0ejkwR0hycjlHWFFadkZwZ2t2OUMxYzlDUHF3c21vYVN4V21fV0hNWVMyTFBOVU45ckFONUZrTWtqYTdtcS1iakhtbTZaNFJNS0RFR254Vlln)
+
+---
+
+#### 3. 內地生赴港轉考DSE熱潮現適應陣痛 跨境教育銜接與升學預期引發深層反思
+* **核心事實**：一名內地女學生在社交平台訴說赴港轉考中學文憑試（DSE）的崩潰經歷，痛陳語言障礙、評價標準驟變及生活成本高昂等三大痛苦，引發兩岸三地傳媒及網絡熱烈轉發與深度討論。此案例揭示近年非本地生湧入DSE賽道背後鮮為人知的適應鴻溝。 `[UDN]`
+* **影響解讀**：受各類人才引進計劃及DSE內地試點政策推動，近年不少內地家庭將DSE視作進入名校的「升學捷徑」。然而，香港中學文憑試高度講求批判性思維、全英語綜合應用及靈活的校本評核邏輯，與內地應試教育體系存在顯著斷層。跨境考生在缺乏語言環境過渡下面臨巨大心理挫敗，此現象正促使家長與輔導機構重新審視盲目轉軌的風險，亦對本地教育界如何提供跨文化適應支援提出新要求。
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tblJ6Nm9BTU5Pb1NSejRUSlRXMW05ZFJVQmFJN3BvOFZwNkpKV1BkTFRVU2dCLU1TVUtHVVNGdHdRQ29vWlU1X2VlOXFCbnRv)
 
 ---
 
 ### 📱 社交平台核心信源與深度輿情（FB / 連登 LIHKG）
 
-#### 1. 連登熱議「蔡局長33小時毅行」：體能敬佩與政策批評的兩極分化
-* **網絡熱度**：連登討論區貼文《教育局局長蔡若蓮表示自己33小時走畢100公里 完成毅行者 2026》引發多方互動（回覆數33，正評1 / 負評24）。
-* **輿情焦點**：
-  * **批判派**：部分網民將局長的個人挑戰與其政策方針掛鉤，質疑局長有充沛時間參與1500公里集訓，前線教師與學童卻在沉重課業與官僚評核中掙扎；
-  * **理性派**：亦有網民客觀指出，以蔡局長的年齡，在暴風雨天氣下以33小時完成100公里麥理浩徑，體能與耐力確實「無可置疑」，具備極強個人毅力。
-* **來源連結**：[連登貼文](https://lihkg.com/thread/4183483/page/1)
+#### 1. 連登熱帖：轉考DSE崩潰與局長行山引發輿論兩極爭論
+* **內地生轉考DSE爭議（回覆77｜正評4 / 負評104）**：連登討論區熱議內地女生哭訴轉考DSE痛苦的報道，主流言論呈現強烈批判與現實審視。多數網民指出，不少內地考生抱持「投機取巧、降維打擊」的心態來港，卻嚴重低估了文憑試英國語文科的難度與全人考核要求，直言「以為考DSE好輕鬆，點知英文同Critical Thinking直接教做人」。
+* **局長毅行者貼文反饋（回覆37｜正評1 / 負評39）**：針對教育局局長蔡若蓮走畢100公里毅行者，連登網民反應普遍偏向負面，留言多聚焦質疑官員在教育行政負擔、學童精神健康挑戰頻發之際「過度聚焦個人體育形象營銷」，反映出青年世代與官方論述之間的心理隔閡。
 
-#### 2. 轉考DSE崩潰哭訴事件：本地生反感「捷徑心態」
-* **網絡熱度**：連登討論區相關貼文《內地女轉考DSE上大學崩潰！哭訴3大痛苦失幸福》出現極高的負評比例（負評達101票，正評僅4票，回覆75條）。
-* **輿情焦點**：
-  * 本地網民普遍對內地考生的「委屈」持冷淡甚至反感情緒，批評不少中介機構過度神化DSE的「低門檻」，誤導內地學生以為「轉考即上名校」；
-  * 學界網民強調，DSE英文科難度極高，且通識/公社科、人文學科重視批判分析，絕非單靠死記硬背即可應付。此討論進一步激化了本地生對跨境考生湧入爭奪本土升學資源的防禦心理。
-* **來源連結**：[連登貼文](https://lihkg.com/thread/4183307/page/1)
+#### 2. 大專生語言焦慮爆發：校園全英語環境下的文化階級挫敗
+* **大學英文口語自卑感（回覆124｜正評145 / 負評34）**：連登校園台熱帖「喺大學比人笑啲英文講得好差」引發大批本地大專生深層共鳴。發帖者與留言網民分享在八大全英語（EMI）課堂、分組研習（Group Presentation）中，因口音或流暢度不足而遭遇冷嘲熱諷的痛苦經歷。討論揭示出本地中學在微調教學語言架構下，母語教學（CMI）與英語教學（EMI）中學畢業生在升讀大學後所面對的語言落差，已延伸為嚴重的社交障礙與心理焦慮。
 
-#### 3. 大專生校園焦慮：「大學比人笑英文差」折射英語教學斷層
-* **網絡熱度**：校園話題《喺大學比人笑啲英文講得好差》獲得高度共鳴（正評145 / 負評34，回覆數124）。
-* **輿情焦點**：
-  * 發帖者傾訴在大學英語簡報（Presentation）與全英語分組討論中因口語不流利而遭受同學嘲笑，引發眾多基層背景大專生的廣泛共鳴；
-  * 網民熱議香港中學「母語教學（CMI）」與「英文中學（EMI）」畢業生升入八大全英語環境後的斷層問題，呼籲大專院校關注學生的英語心理陰影，改善同儕包容氛圍，而非一味進行優劣分化。
-* **來源連結**：[連登貼文](https://lihkg.com/thread/4183036/page/1)
-
-#### 4. 鄧飛議員發文論述選委會選舉：深化教育界治理凝聚力
-* **核心觀點**：立法會議員鄧飛發表專欄文章《凝聚各界力量 築牢治理根基：2026年選舉委員會選舉》，強調教育界在完善選舉制度後的角色轉變。他指出，教育界應透過選委會選舉凝聚專業力量，落實行政主導與愛國者治港原則，確保教育政策緊扣國家發展大局與香港長遠競爭力。 `[橙新聞]`
-* **來源連結**：[原文](https://news.google.com/rss/articles/CBMi7gJBVV95cUxPQS02eC1lcUY4N1FhZk1Ub1VTeER3VmVBSVFfR2dONGlqc0tPWEFHY0hYR2puY1JJS0NCYjRxeGQwSTh3ank4REMyUW5ObUVUOWFvbTFkemlEcV9IX29HOTJNYzI1bXRZMnE4THhwOWo3eEd0U0FJNUtPRkhBeEpPR0hyTVNqUDNwUFViNVBubW1VZ21YdkxyeV9QeTh2UUxtWXVKX1V1OHFiUlRNUEozLVd3RkhaUFM3TWVnWWFZQVRJQ1pZYnExa2NNVmRkenpDblJNV1pkYzRkYkc5bkhzRnlsRFRQNzd3Vm1adlJtS0RJV2I2Y0ROdDltMVZVZWlWeDRoclh5YUY5WXJJalVOamM0cTZOWmp0SkxkMXh2aGtCY0x2ZWI5VERxcG1XMXNZSUlKM0NjM01yeTg4UWJFUEUyVldLLWVuT0Q3Z3RCdXRMc2VRSVFtTUVPa3RBYjdkN0hrcUw2SlZITW0yRnc?oc=5)
+#### 3. 鄧飛議員發文定調教育界角色 築牢特區治理根基
+* 立法會議員鄧飛於《橙新聞》撰文論及2026年選舉委員會選舉架構，強調必須凝聚各界力量築牢治理根基。鄧飛指出教育界作為落實愛國愛港價值觀的重要陣地，在未來治理體系中需承擔維護制度安全、培育青年家國情懷的先鋒職責，呼籲業界團結一致，為特區長遠穩定提供堅實的人才支撐。 `[橙新聞]`  
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMi7gJBVV95cUxPQS02eC1lcUY4N1FhZk1Ub1VTeER3VmVBSVFfR2dONGlqc0tPWEFHY0hYR2puY1JJS0NCYjRxeGQwSTh3ank4REMyUW5ObUVUOWFvbTFkemlEcV9IX29HOTJNYzI1bXRZMnE4THhwOWo3eEd0U0FJNUtPRkhBeEpPR0hyTVNqUDNwUFViNVBubW1VZ21YdkxyeV9QeTh2UUxtWXVKX1V1OHFiUlRNUEozLVd3RkhaUFM3TWVnWWFZQVRJQ1pZYnExa2NNVmRkenpDblJNV1pkYzRkYkc5bkhzRnlsRFRQNzd3Vm1adlJtS0RJV2I2Y0ROdDltMVZVZWlWeDRoclh5YUY5WXJJalVOamM0cTZOWmp0SkxkMXh2aGtCY0x2ZWI5VERxcG1XMXNZSUlKM0NjM01yeTg4UWJFUEUyVldLLWVuT0Q3Z3RCdXRMc2VRSVFtTUVPa3RBYjdkN0hrcUw2SlZITW0yRnc)
 
 ---
 
 ### 🏫 基礎教育與學界動態
 
-#### 1. 赴內地研學熱潮持續推展 教育局多元舉措拓寬學子視野
-* **動態追蹤**：隨着公社科內地考察全面常態化，香港教育局持續推出多項精準資助與支援措施，推動不同年級學生走進內地科研基地、文化重鎮與高新企業。文匯報報導指出，研學模式已從初期的走馬看花逐步過渡至「主題式深度研習」，有效增強學生的國民身分認同與國家發展大局觀。 `[香港文匯報]`
-* **來源連結**：[原文](https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU3BEZnJuQVVaWkE3VWN3Qlp5UWUwWTlXZjU3U1g2OTBjWlZNMzJydE12cEhBSkEtemlCVklRVl9BNWR2b0Y2R2p1RG5kNkk4eDdHR2hHYlhPYjdjUVU1ME8wZk9MTV82LVRIcXFQT3Q3c0RqQXVJ?oc=5)
+#### 1. 赴內地研學熱潮方興未艾 教育局推多元舉措支持學生開拓視野
+* 隨着高中公民與社會發展科內地考察全面常態化，香港學生赴內地交流研學的意願持續升溫。教育局持續推出資助與配對支援措施，協助學校深化國情教育與歷史文化研學，涵蓋創科企業探訪、歷史遺址實地考察及兩地姊妹學校深度交流。學界普遍認為，系統化研學有助拓寬基層學生的國家認知，但在行程設計上需進一步強化學術與實踐深度，避免流於形式。 `[香港文匯報]`  
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU3BEZnJuQVVaWkE3VWN3Qlp5UWUwWTlXZjU3U1g2OTBjWlZNMzJydE12cEhBSkEtemlCVklRVl9BNWR2b0Y2R2p1RG5kNkk4eDdHR2hHYlhPYjdjUVU1ME8wZk9MTV82LVRIcXFQT3Q3c0RqQXVJ)
 
-#### 2. 國際鏡鑑：韓國高考爆發AI作弊醜聞 教育首長引咎辭職警示考場誠信
-* **國際視窗**：韓國大學修學能力考試（高考）驚爆嚴重AI高科技作弊爭議，引發全國輿論嘩然。韓國教育部長公開承認監管失職並迅速引咎下台，獲總統李在明秒准辭呈。 `[香港01]`  
-* **香港啟示**：在DSE以及各類本地統一考試逐步推行電子化應試、允許或整合生成式AI工具的趨勢下，韓國此案為香港考評局敲響警鐘。如何防範利用隱蔽穿戴設備與生成式AI技術實施跨考場作弊，已成為未來高利害考試維護公平性的核心技術挑戰。
-* **來源連結**：[原文](https://news.google.com/rss/articles/CBMijgNBVV95cUxPVk5TMDE4R0ltOXRJMnBFSFRZMVo0WERNcEFNVmh1S0N6ZC0xT0hSdlJkTTh6WWU4eFJGRkptVHVEbnpVeVBqRHg0SWlGZTN5WXVsOTR0YXpwdnFUWFdtbzJob3NSejkyaUg4VEpiQ09saFJtS3BESURmN3UwY1F6ODkxTUdwOXZXc1dmSG01dzU0bHRZUE5kR1U1TjlGZFJnRzBzcjFoX2N2c0NTMGxaUVZ2R3B1X2xvVGNkLXNDY05oZXJ3SEIwVE1mOFJ0eGxXVldYUk9DTDM3bnBRMEhMTVdQLWl3Z2JBME82N2tTbFdrSVktREVuSUE0ZzIwazF3ZExNRjhPMlkta3d5ck9nclhfWjg2V2s3NVo1R3BuUnJSR3VRbjViYUFfY2lmajdrVmdJWV82Y01CeW1rUTk2X2R1NktfZHZNdllUenRUREZPc3RXLVJrcXdLNVAwUDdwTjNuUkZzNzBBQzhuTVAtdk9TODBxRThrTUZnYUxrUGlKazJWUTdvNmVRdzh5QQ?oc=5)
+#### 2. 借鑑國際考評安全：韓國高考爆AI作弊爭議 教育首長引咎辭職
+* 韓國高考（CSAT）爆發利用生成式人工智能進行作弊的重大舞弊爭議，引發社會對考評公正性的劇烈震盪，韓國教育部長隨即引咎請辭並獲總統批准。此一國際事件為香港考評體系敲響警鐘。隨着AI工具在中小學日益普及，考評局與學界在未來文憑試（DSE）校本評核（SBA）及實體考場規範中，如何建立嚴密的AI防弊防線與倫理監管機制，已成不可迴避的緊迫課題。 `[香港01]`  
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMijgNBVV95cUxPVk5TMDE4R0ltOXRJMnBFSFRZMVo0WERNcEFNVmh1S0N6ZC0xT0hSdlJkTTh6WWU4eFJGRkptVHVEbnpVeVBqRHg0SWlGZTN5WXVsOTR0YXpwdnFUWFdtbzJob3NSejkyaUg4VEpiQ09saFJtS3BESURmN3UwY1F6ODkxTUdwOXZXc1dmSG01dzU0bHRZUE5kR1U1TjlGZFJnRzBzcjFoX2N2c0NTMGxaUVZ2R3B1X2xvVGNkLXNDY05oZXJ3SEIwVE1mOFJ0eGxXVldYUk9DTDM3bnBRMEhMTVdQLWl3Z2JBME82N2tTbFdrSVktREVuSUE0ZzIwazF3ZExNRjhPMlkta3d5ck9nclhfWjg2V2s3NVo1R3BuUnJSR3VRbjViYUFfY2lmajdrVmdJWV82Y01CeW1rUTk2X2R1NktfZHZNdllUenRUREZPc3RXLVJrcXdLNVAwUDdwTjNuUkZzNzBBQzhuTVAtdk9TODBxRThrTUZnYUxrUGlKazJWUTdvNmVRdzh5QQ)
 
 ---
 
 ### 🎓 高等教育與大專資訊
 
-#### 1. 港大地質科學科研突破：揭示斷層泥孔隙水壓機制 解釋遠距離觸發地震延時現象
-* **動態速遞**：香港大學地球科學系最新研究取得突破性進展，成功揭示斷層泥中的「孔隙水壓機制」，科學解釋了地震波為何能在遠距離斷層誘發顯著的延時地震現象。該成果對於全球地震危害性評估及斷層動力學理論提供了嶄新的科研依據，再次彰顯八大院校在基礎科研領域的國際領先地位。 `[香港文匯報]`
-* **來源連結**：[原文](https://news.google.com/rss/articles/CBMid0FVX3lxTE1heFpTeE9hUm1HVGJIczQzNzg2YXFNak5ZdTdhNGM2VHJ2bTFHeVRzcHgxVzFYVWEyV3BMT2RNYlhvb1NyM0IxTkxtMXlaR18xcWk1aUJvUEZFYmdpdFpxMnlTRGJxOVZ3cm55Vjk5bGNsQVJFZGlJ?oc=5)
+#### 1. 港大地球科學科研突破 揭示斷層泥孔隙水壓機制與地震觸發效應
+* 香港大學地質學研究團隊取得重要科研成果，深入解析了斷層泥（Fault Gouge）孔隙水壓機制，成功解釋了遠距離觸發地震的延時物理現象。該研究為理解構造板塊活動及提升地震預警模型精準度提供了全新視角，展現香港高等教育機構在基礎科學與防災減災前沿研究上的頂尖原創力。 `[香港文匯報]`  
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMid0FVX3lxTE1heFpTeE9hUm1HVGJIczQzNzg2YXFNak5ZdTdhNGM2VHJ2bTFHeVRzcHgxVzFYVWEyV3BMT2RNYlhvb1NyM0IxTkxtMXlaR18xcWk1aUJvUEZFYmdpdFpxMnlTRGJxOVZ3cm55Vjk5bGNsQVJFZGlJ)
 
-#### 2. 中大醫學院專訪：黃麗虹教授倡導人文關懷「學習體驗」 培育同理心仁醫
-* **動態速遞**：香港中文大學醫學院助理院長（學習體驗）黃麗虹教授接受傳媒專訪，分享其推動醫學生「全人學習體驗」的心得。黃教授強調，現代醫科培育絕非單純傳授醫學技術與臨床知識，更需引導學生深刻體會病患痛苦與社會疾苦，將「仁心」注入日常實踐。 `[東周刊]`
-* **來源連結**：[原文](https://news.google.com/rss/articles/CBMilgNBVV95cUxQdHRpZHpuMkdPLWRzYTIwZnhaNUs3c3hqVzZNRWh3NURiajVfMFVmUHBFcXVjN3RBRWRpUElHdWViWF9qcjR0X3h6WThQX2hUVjRwSXVYRnlOeVNlNXlzQktjaExLUm1XUzZJbDNNM01DbEp4dHF0a1ZLY2hmamU2VWdsTXRWMGdxLTJ3djAtbHNOeGtJMXg0SkxsNHdQNmM4WnVlUWI0eDRiZE9NZTJlLV9BeUlCRGcwX3dtbkdWVEFCTlBYd2tkeHhKNVpyb0g3c2VwM3czQVlLZnJrZllhQTZNcnk4WFl0amVKbHRTUW1OUWQwS1NjRF91cnYxd2F4VHBQdWpYUE41eDBsVF9BYmtVNnVSRUhEU1hXWXVSY090cE9ial9kSXhDam9EN1BKN05VamZXUlM0bFNPLUxxUk12eDUwVnRic2NCV0F2STl2N0g5ZXVGbWI3ZXFnMVNBRjVOTnVWdUs2WmpMVHNYczZKUURPNkt3Z2FaazIxWlNFQzM2UlRHdlFWd2FYUkNTT2NBck53?oc=5)
+#### 2. 中大醫學院改革臨床學習體驗 黃麗虹教授暢談醫者培育與人文傳承
+* 香港中文大學醫學院助理院長（學習體驗）黃麗虹教授接受專訪，分享中大醫學院在醫學生臨床學習與全人培育方面的革新舉措。面對醫療科技與精準醫學的飛速發展，黃麗虹強調除了專業醫療技能，臨床同理心、醫患溝通與心理抗壓能力的建立更為關鍵，倡導透過多元沉浸式體驗培育具備溫度的新一代醫療領航者。 `[東周刊]`  
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMilgNBVV95cUxQdHRpZHpuMkdPLWRzYTIwZnhaNUs3c3hqVzZNRWh3NURiajVfMFVmUHBFcXVjN3RBRWRpUElHdWViWF9qcjR0X3h6WThQX2hUVjRwSXVYRnlOeVNlNXlzQktjaExLUm1XUzZJbDNNM01DbEp4dHF0a1ZLY2hmamU2VWdsTXRWMGdxLTJ3djAtbHNOeGtJMXg0SkxsNHdQNmM4WnVlUWI0eDRiZE9NZTJlLV9BeUlCRGcwX3dtbkdWVEFCTlBYd2tkeHhKNVpyb0g3c2VwM3czQVlLZnJrZllhQTZNcnk4WFl0amVKbHRTUW1OUWQwS1NjRF91cnYxd2F4VHBQdWpYUE41eDBsVF9BYmtVNnVSRUhEU1hXWXVSY090cE9ial9kSXhDam9EN1BKN05VamZXUlM0bFNPLUxxUk12eDUwVnRic2NCV0F2STl2N0g5ZXVGbWI3ZXFnMVNBRjVOTnVWdUs2WmpMVHNYczZKUURPNkt3Z2FaazIxWlNFQzM2UlRHdlFWd2FYUkNTT2NBck53)
 
-#### 3. 浸會大學推動策略發展與管治優化
-* **動態速遞**：香港浸會大學持續推進大學管治與跨學科教研佈局，聚焦培育具備創意藝術與數據科技背景的複合型人才。 `[Capital 資本平台]`
-* **來源連結**：[原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTE94UEJfZ3p6MHVNU2NfcDF6MG50cHlxd29sdTlJRi1ScWtFNVNXbUxOTC02SlRnS243VE9TWFlZNm5UN3c1MUJwOC1aQWZpdFV0MUNsMkJ1SFc?oc=5)
-
----
-
-### 🎙️ 語音播報結語
-各位聽眾，今日的教育新聞重點在於**「堅持與規範的平衡」**：蔡若蓮局長以百公里毅行體現個人堅韌，然而學界對於「教師執業三年一續」等行政管控規範亦提出了深刻反思；跨境求學與校園語言焦慮，則提醒我們教育政策必須回歸對「人」的理解與關懷。感謝收聽，我們明日早報再會。
+#### 3. 浸會大學跨學科策略推進 結合創意藝術與數碼技術
+* 香港浸會大學在最新發展藍圖中，持續推動創意藝術、傳播學與人工智能科技的跨領域融合，深化與國際頂尖學府的研發協作，致力在自資與教資會資助課程體系中構建具備全球競爭力的前沿創新課程。 `[Capital 資本平台]`  
+* **相關連結**：[原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTE94UEJfZ3p6MHVNU2NfcDF6MG50cHlxd29sdTlJRi1ScWtFNVNXbUxOTC02SlRnS243VE9TWFlZNm5UN3c1MUJwOC1aQWZpdFV0MUNsMkJ1SFc)
 
 ---
