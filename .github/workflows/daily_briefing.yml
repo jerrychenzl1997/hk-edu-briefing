@@ -39,9 +39,16 @@ jobs:
           python briefing_generator.py
 
       - name: Commit archive, latest raw JSON, audio, HTML & tracker state
+        if: always()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add latest_briefing.md latest_briefing.mp3 index.html latest_edu_raw.json event_tracker.json archive/
+          files=""
+          for f in latest_briefing.md latest_briefing.mp3 index.html latest_edu_raw.json event_tracker.json archive/; do
+            if [ -e "$f" ]; then files="$files $f"; fi
+          done
+          if [ -n "$files" ]; then
+            git add $files
+          fi
           git diff --quiet && git diff --staged --quiet || git commit -m "Update daily briefing, TTS audio & archive [skip ci]"
           git push
