@@ -15,6 +15,7 @@ TODAY_STR = NOW_HKT.strftime("%Y年%m月%d日")
 UPDATE_TIME_STR = NOW_HKT.strftime("%H:%M")
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash").strip()
 PUSHPLUS_TOKEN = os.environ.get("PUSHPLUS_TOKEN", "").strip()
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "").strip()
 
@@ -80,7 +81,7 @@ def generate_briefing_with_gemini(news_list, history_events):
 """
 
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model=GEMINI_MODEL,
         contents=prompt,
     )
     full_text = response.text
