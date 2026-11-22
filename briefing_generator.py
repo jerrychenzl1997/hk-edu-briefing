@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import time
 import asyncio
 import datetime
 import requests
@@ -80,10 +81,22 @@ def generate_briefing_with_gemini(news_list, history_events):
 
 """
 
-    response = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
-    )
+    response = None
+    last_error = None
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+            )
+            break
+        except Exception as ex:
+            last_error = ex
+            wait_sec = 120 * (attempt + 1)
+            print(f"[WARN] Gemini call attempt {attempt + 1} failed: {ex}. Retrying in {wait_sec}s...")
+            time.sleep(wait_sec)
+    if response is None:
+        raise last_error
     full_text = response.text
 
     hot_keywords = []
