@@ -17,6 +17,12 @@ UPDATE_TIME_STR = NOW_HKT.strftime("%H:%M")
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash").strip()
+GEMINI_FALLBACK_MODELS = [
+    m.strip() for m in os.environ.get(
+        "GEMINI_FALLBACK_MODELS",
+        "gemini-3.5-flash-lite,gemini-3.8-flash-lite,gemini-3.8-pro"
+    ).split(",") if m.strip()
+]
 PUSHPLUS_TOKEN = os.environ.get("PUSHPLUS_TOKEN", "").strip()
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "").strip()
 
@@ -83,23 +89,31 @@ def generate_briefing_with_gemini(news_list, history_events):
 
     response = None
     last_error = None
-    models_to_try = [GEMINI_MODEL]
 
-    # Discover alternative flash models as fallback when the primary model is overloaded
+    # Build candidate model list: primary -> curated fallbacks -> auto-discovered text models
+    candidates = [GEMINI_MODEL] + [m for m in GEMINI_FALLBACK_MODELS if m != GEMINI_MODEL]
+    exclude_markers = ("image", "embedding", "tts", "audio", "live", "veo", "imagen", "gemma", "thinking", "banana")
     try:
+        discovered = []
         for m in client.models.list():
             name = (getattr(m, "name", "") or "").split("/")[-1]
-            actions = getattr(m, "supported_actions", None) or []
-            if not name or name in models_to_try:
+            actions = str(getattr(m, "supported_actions", "") or "").lower()
+            low = name.lower()
+            if not name or name in candidates:
                 continue
-            if "flash" in name and "generateContent" in str(actions):
-                models_to_try.append(name)
+            if any(b in low for b in exclude_markers):
+                continue
+            if "generatecontent" in actions and ("flash" in low or "pro" in low):
+                discovered.append(name)
+        candidates.extend(discovered)
     except Exception as ex:
         print(f"[WARN] Gemini model discovery failed: {ex}")
 
-    for mi, model_name in enumerate(models_to_try[:4]):
-        attempts = 3 if mi == 0 else 2
-        for attempt in range(attempts):
+    candidates = candidates[:8]
+    print(f"[INFO] Gemini candidate models: {candidates}")
+
+    for model_name in candidates:
+        for attempt in range(3):
             try:
                 response = client.models.generate_content(
                     model=model_name,
@@ -109,14 +123,19 @@ def generate_briefing_with_gemini(news_list, history_events):
                 break
             except Exception as ex:
                 last_error = ex
+                err_str = str(ex)
+                code_match = re.search(r'(?:ClientError|ServerError): (\d{3})', err_str)
+                code = code_match.group(1) if code_match else ""
+                # 404 (model unavailable) / 429 (quota exhausted) -> skip to next model immediately
+                if code in ("404", "429"):
+                    print(f"[WARN] Model {model_name} unusable ({code}); skipping to next candidate.")
+                    break
                 wait_sec = 90 * (attempt + 1)
-                print(f"[WARN] Model {model_name} attempt {attempt + 1} failed: {ex}. Retrying in {wait_sec}s...")
-                if attempt < attempts - 1:
+                print(f"[WARN] Model {model_name} attempt {attempt + 1} failed: {err_str[:300]}. Retrying in {wait_sec}s...")
+                if attempt < 2:
                     time.sleep(wait_sec)
         if response is not None:
             break
-        if mi == 0:
-            print("[INFO] Primary model unavailable; trying fallback flash models...")
 
     if response is None:
         raise last_error
