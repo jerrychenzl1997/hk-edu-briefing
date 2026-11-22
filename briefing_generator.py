@@ -83,18 +83,41 @@ def generate_briefing_with_gemini(news_list, history_events):
 
     response = None
     last_error = None
-    for attempt in range(3):
-        try:
-            response = client.models.generate_content(
-                model=GEMINI_MODEL,
-                contents=prompt,
-            )
+    models_to_try = [GEMINI_MODEL]
+
+    # Discover alternative flash models as fallback when the primary model is overloaded
+    try:
+        for m in client.models.list():
+            name = (getattr(m, "name", "") or "").split("/")[-1]
+            actions = getattr(m, "supported_actions", None) or []
+            if not name or name in models_to_try:
+                continue
+            if "flash" in name and "generateContent" in str(actions):
+                models_to_try.append(name)
+    except Exception as ex:
+        print(f"[WARN] Gemini model discovery failed: {ex}")
+
+    for mi, model_name in enumerate(models_to_try[:4]):
+        attempts = 3 if mi == 0 else 2
+        for attempt in range(attempts):
+            try:
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                )
+                print(f"[INFO] Gemini generation succeeded with model: {model_name}")
+                break
+            except Exception as ex:
+                last_error = ex
+                wait_sec = 90 * (attempt + 1)
+                print(f"[WARN] Model {model_name} attempt {attempt + 1} failed: {ex}. Retrying in {wait_sec}s...")
+                if attempt < attempts - 1:
+                    time.sleep(wait_sec)
+        if response is not None:
             break
-        except Exception as ex:
-            last_error = ex
-            wait_sec = 120 * (attempt + 1)
-            print(f"[WARN] Gemini call attempt {attempt + 1} failed: {ex}. Retrying in {wait_sec}s...")
-            time.sleep(wait_sec)
+        if mi == 0:
+            print("[INFO] Primary model unavailable; trying fallback flash models...")
+
     if response is None:
         raise last_error
     full_text = response.text
