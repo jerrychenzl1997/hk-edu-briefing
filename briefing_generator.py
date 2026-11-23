@@ -125,7 +125,8 @@ def generate_briefing_with_gemini(news_list, history_events):
             except Exception as ex:
                 last_error = ex
                 err_str = str(ex)
-                code_match = re.search(r'(?:ClientError|ServerError): (\d{3})', err_str)
+                # genai SDK 的錯誤字符串以狀態碼開頭（如 "404 NOT_FOUND. {...}"）
+                code_match = re.match(r'\s*(\d{3})', err_str)
                 code = code_match.group(1) if code_match else ""
                 # 404 (model unavailable) / 429 (quota exhausted) -> skip to next model immediately
                 if code in ("404", "429"):
