@@ -1,8 +1,24 @@
 {
-  "generated_at_hkt": "2026-11-23 08:31",
+  "generated_at_hkt": "2026-11-23 11:59",
   "date": "2026-11-23",
-  "total_count": 16,
+  "total_count": 24,
   "items": [
+    {
+      "title": "學者稱「東數西算」工程是國家全盤規劃戰略　形容是天時地利人和",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1878891-20261123.htm",
+      "src": "香港電台RTHK",
+      "cat": "主流新聞",
+      "dt": "2026-11-23 09:24",
+      "desc": "國家主席習近平早前到內蒙古烏蘭察布考察時表示，算力産業正處在加速發展階段，實施「東數西算」工程、構建全國一體化算力網，是中共中央一項重要部署。\n\n城大計算學院副院長王詩淇接受本台節目《看神州》訪問表示，人工智能需要算力，算力要有較好的製冷條件。「東數西算」工程是國家一個全盤的規劃和戰略，因為東部擁有應用場景和數據計算的需求，西部則在風能、水能、天氣等方面有優勢，形容是天時地利人和。至於「東數西算」工程面對的痛點，王詩淇指出，網絡傳輸會遇到延遲，算力亦在硬件、軟件方面有不同規格和型號，有需要調度算力，並建立統一標準和接口來進行計算。\n\n對於習近平表示要注重「算電協同」、「算水協同」，王詩淇分析，算力離不開電力，因為需要冷卻、製冷，同時需要水力，因此涉及非常複雜的系統優化問題，須建立孿生系統，在數字世界中追蹤、預測到「算電協同」、「算水協同」的狀態。\n\n數據安全方面，他認為某些數據有私隱信息，因此需要分級處理可流通的數據，而近年「隱私計算」技術取得長足發展，可在數據安全的情況下，最大化為工業界、學術界提供更好的支持。\n\n他又說，西部的地方政府可以利用「東數西算」工程，積累大量不同領域的人才"
+    },
+    {
+      "title": "教育局副局長出席「一帶一路獎學金」獲獎學生及畢業生年度交流分享會",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nUER4Wjl0bXNpVEVmOG5FLUpyWXRwV0dHRVBibXlaQ1hfWXdfdFc4NjVFb1pNeUdCNWpYc2VPR1VUV09ydGNOY0VYQXNSS0Rkdm5XZ0RiNG85RkhOWkV5UDdyZEhwVk0wRE5qNnVfQzhaOUhp?oc=5",
+      "src": "風火輪傳媒有限公司",
+      "cat": "主流新聞",
+      "dt": "2026-11-22 12:30",
+      "desc": "教育局副局長出席「一帶一路獎學金」獲獎學生及畢業生年度交流分享會"
+    },
     {
       "title": "港大兒科前線：香港學童運動量 達標率不足8% - 20261123 - 副刊",
       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNbE5iclBQcTVPZHkxcFpaT0tlQWVjdGVGN2k2OWJ1VmRkN3U5WE9Bb21rVVU0R2VSa0E4SVk3Uy10bTYtaUpYSkhpUmVQM1NoT1VNaERjdGNnTjRyTzFWUVZoenNmRld5N2QtSjVSTGJjQXN2a1R2bjZLNHdBS3VsaUliRDNkM3dXMjd3N1NOM3dQQjZxNXdiVG5WQW94eHhNeEdSSGN1TU93Z3JFTE40VGgwWVVud2JxeHRXbU00M21Gb2VORkZ1SmlNTWJFenZBazFTN2doTDVmVmNvclVmSk1DWTlRV0pLQjFxdjRIdjFIc20td3FJQnNUYlNSNXF0NkRNVXg0N0ZvalZOYmx6VFg3OGNBeHlTX3RTMk5Pb1RBanNOTmpBTjU3UW8zVUhncVV1Wl8yVVdNRE43bkY4V3FpUzlhWnMyczJlbllIeVlSZDBJMTdMUkNrdlhuZmRuVmxzU2Q5aURSVUE?oc=5",
@@ -10,6 +26,14 @@
       "cat": "主流新聞",
       "dt": "2026-11-23 04:30",
       "desc": "港大兒科前線：香港學童運動量 達標率不足8% - 20261123 - 副刊"
+    },
+    {
+      "title": "香港科大從凍水果乾 取得火星建材新靈感",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XcHl4SUhTX2FmemxGRXppRW50c2F4eHE0QUNDMzhqVGVMeDM2TDd6NWNrNjdVbUFBa0FhRjVjY21qZmpoaGFveDV5bTRFR1E?oc=5",
+      "src": "公視新聞",
+      "cat": "主流新聞",
+      "dt": "2026-11-23 09:00",
+      "desc": "香港科大從凍水果乾 取得火星建材新靈感"
     },
     {
       "title": "港大研究揭斷層泥孔隙水壓機制解釋遠距離觸發地震延時現象- 教育科研",
@@ -52,12 +76,28 @@
       "desc": "馮志豪｜教師執業證書三年一續——別用官僚程序取代教育專業"
     },
     {
+      "title": "小一自行分配學位｜註冊日期／文件？收生失敗點好？統一派位日期",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOcHFGMnVMTUZpMUg5QnMzenN0UlN0a2VBMG5tR2JKX1Fub2dpR1JMdVlQbjgwaDBiNEpZN2M1bGZtdUYzenE3MzZsME0tX0NWbVZKUUZDX0tvZDFvY2FrTEwzU0NqV3NEc19SemZURm5jcV8xc3g1dWNoUHhmOVZxNXprNjMwUUNJZloybEIwQnpERGhNeGhSX1ZnT1VqOXdUSnVfUng2VFo4ZGhBLWJ3MkE1OUYyMmRnMTRWTGlXT1NHQ3paNUc3M2d5QU9Zdk42Qk1LckFtRGRXZjM0ZmRMNlJPQUotZFlfYm8wcGdFMWRFUUdfdWU0SF9sRXFTeExtUDhZa093c3VrM2E0SHVSdnNyY1VKT0lObnB3Z2hTalJWdFBmUXVVVjNXanRROWZOdXlrLWlFRzZpSk9ZVEFpaXZob0dOTGgwNzBOLWdBQkcxTDZmMlh1LWEtR0JyRUlaSTlGT1RQaDEwMHRhTnVneEVNSXhTQXhrcHhqQVRoRTE4eHRFbTZpU19ObFg0aGRLdlRwYTZEWXZyV0NTOEhSR190cFdhVURWQnZLeFZfTmtiR0k?oc=5",
+      "src": "香港01",
+      "cat": "主流新聞",
+      "dt": "2026-11-23 10:41",
+      "desc": "小一自行分配學位｜註冊日期／文件？收生失敗點好？統一派位日期"
+    },
+    {
       "title": "朱敬文中學多元生涯規劃 咖啡拉花重拾自信 舊生回流執教引路",
       "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQamI0LTJfUXNDTmxmUG1wNG90aHhqUmtxVnRJZnBIbVpEaU1LUGNpWHhVT1VxZmRoemdXSGpUQi1mRXloZ2I5YjVNeFBUNUFEVzMyLUM0TDlfWGNMOG5rODN4bW1YQkxTMDBqelVpOTRyUnd3Wi13dHp4UXlnSXNkajZZT1ltTGlZUEh2UlM0QkdZeFZFMWxLUm1UeFFpcVdidDlDVk9XUEhBbWZ0b3JzSzR1UmQxdVdCd2JqcEpYc0hPa2h1SlNxSHZlbnNueWlIUTQzREktY2ZGa1hPTVBDZUpzcVJ1ZjJ0YzRYaFZkNXVjQ3NfekhWTWRXYTdmaUptSUxXQTUxN1lBcXlWUkJjWXpDNlR4RFhZd2s3eGxwSlItb0N1dTd0bE80Uy1SeUIyc0pTSEhTLS1wVXE0TGdaVWRfVURrTFh0T09ydVpWT3FvWUNXOW9zVl9iQ0dSNm8tRFBEX2dPbThFcS14NURmbFZFLTNqR2NXZkl4dUt6alJqZjllaXgtSndpbE5tb2NLcF8tbFdNMWpUbm1xaUJuU3poQm5nSmVtaHUxc2JWT0EtT1NBbmJackFwb01Dbm9EbkJtNy14Rmg?oc=5",
       "src": "香港01",
       "cat": "主流新聞",
       "dt": "2026-11-23 07:00",
       "desc": "朱敬文中學多元生涯規劃 咖啡拉花重拾自信 舊生回流執教引路"
+    },
+    {
+      "title": "蔚來 x THEi高科院新能源汽車教育中心揭幕 推動應用型綠色科技發展 為業界注入新動能",
+      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxNbDF1dTluZjFKYzVsUVdBVThEdVJudzEwVVVLZXhlckRpUmMyNzBleDBYdDc3NEpKanRNdnRvNXRrOHdHV0FmYm43bEgybEVtbG9zdW5YWG05SHhISXZvdi1kVEYzVUZURDBkMGNrQmRwT1p3Sm9UQmtsRnp5U1dWZkhyWGtNT09VMWVCVERqUHpONS1WVVdPTVlCdDNBVzFqcy1ITmdQd05oNl9EMFFuZk02UjFzbzZIYi1wSmtOblFhYUtOT24td212N1hfRkwybDluaVdyS3FQQWRqME81bG9mRF9rQnJsbVdWSWFZQ2pXYkx0MV9jXzh2akFlWnUxVUliNFdkV2MyZmtqcV9ycEgwNDV4TmlnTGItaFZvQ25UbnJTVVl3N3VfaDJyOVJMcnk2bDF0YmR2dndibmFMcTg4SlpNcUNHTndBSWF6aHozYnJEQksxZjhoMDBEQ2MzRjdIRmhHNWhXUkEyd0RfRUdjNHl6Qm54SFdZTDNLOFJINUxvOG9pYWx1ZUdEdldqU0Q4bFRvdGpMOTJrX2hNaGFxWFcxQldGY2dkbEZYcUVoel9tOTM3Yy16ak53S0hyRWRuTnFwTnJGWVpzeW16Vmw5R182ZHU3NGFMQTEtX2tjYWFpNVFfb0lhZDM4QlFvbjZjbWl3YlhZTERYTlMwcG9kWGo?oc=5",
+      "src": "星島頭條",
+      "cat": "主流新聞",
+      "dt": "2026-11-23 10:00",
+      "desc": "蔚來 x THEi高科院新能源汽車教育中心揭幕 推動應用型綠色科技發展 為業界注入新動能"
     },
     {
       "title": "高考防作弊爆混亂 韓教育部長下台",
@@ -68,6 +108,14 @@
       "desc": "高考防作弊爆混亂 韓教育部長下台"
     },
     {
+      "title": "蔡若蓮與「毅行先生」風雨33小時走畢100公里 1500公里練習成就「不可能」",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPaGpyRUx5ZnlZTHFCX3hfQm1uaTFQUWoyRy1rUG9RUEplTlZCRldYY3JrQmwxRllURVRUZTdkdTZkWXhrYWVRdHBPaDFweExNc1pqYlZOWHJxZ0Vac3lGXzRWdElmN3hlYmNHdFphN0pzVl9ac1FLcElEZWJBeENIOUZ0d0hYdmlGWUhJTkxRZzl6RC1QSHpkeUtORHFtMGhGN0pmLUdqZUU2UHFRQXU4dnBZWFdvVVhGclc1T2NjUEYtbzlaZ29IQUx6N2JuUmc4ZnNHN3BISVpmb2t0aUNkajJ0RzF3dzh0WG9rUXVYYmNOa3dvTFpiM2VGaDhENmw5UGc4SGFIb1NkXzNJbi12aWtuNXBxVnNld0k0QnRWNmFyZ1lQdlpybTF0RThRa1J2SXk3d1ZuUGNvSEVobXRoLWtQYkx0ejkwR0hycjlHWFFadkZwZ2t2OUMxYzlDUHF3c21vYVN4V21fV0hNWVMyTFBOVU45ckFONUZrTWtqYTdtcS1iakhtbTZaNFJNS0RFR254Vlln?oc=5",
+      "src": "星島頭條",
+      "cat": "主流新聞",
+      "dt": "2026-11-22 20:33",
+      "desc": "蔡若蓮與「毅行先生」風雨33小時走畢100公里 1500公里練習成就「不可能」"
+    },
+    {
       "title": "THEi籌備升格大學 赴一帶一路國家推廣拓生源",
       "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOT0M5ZkFPbUozTUlNczZKUzZ0d1RDUGFKY05aTlk1Yy0yeEYyN3ZwSVhPb2JRdkVvVW1xWnlUYnQ1U2tfcl9HSTlwVFpBcVBqcWxYbTY4MGRZVGxtTzFudFdEMnBiQlRSbGxJRXpidi0xS2xWQU1JRjR3NG1KTkxtSzN4aVIzN0RUVXp3NWtTZzZVTVRCelp6bzZuZnV0Qm1mM3I5YVEyUk9HZ2ZjWGdkQWtyZEllNGRGeW1YZ1R3dF9aZEhkc0RtaTdqQ29CeDhTZENDdUNVSE85WGZYYk9sY2E2U3dsY3JTYnhSNnQ2M241eUtLaWh4cjdWZndVLUVZcjJKdFp5ZkZSc1RaeUJIRnU0ZXBFSG5fNVo2RWwwMHZpQ0c1VnRXUFhHZFVNbDV5TXBVYUltRXlxNkRt?oc=5",
       "src": "星島頭條",
@@ -76,12 +124,44 @@
       "desc": "THEi籌備升格大學 赴一帶一路國家推廣拓生源"
     },
     {
+      "title": "THEi高科院校長劉建德：冀升格應用科學大學越快越好 對進駐北都持審慎觀望態度",
+      "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOQ3YwcTdDUVpmSXhaWlFxTkpHalJ1SzdhdWJJMThNVUhMdDQ2ZkoySi1zcFBjNGxDWlVyM2JWRVVnOG52T3huR3ZHR1N6OC1BYTMxTUJ1RjNoTUN6UnJVdUdOdjh2Y1dud0ZUamdPcGdsSmQwYzRUa3MwZzNDZ1dqTlJaQVVXamFybHZIbEtQdms1UFdxOEJ3OVI5RlVSMkN1QU0zU2JsZFZud1hKRkhrWkwyczVMYVBaRnMwMU5xbHlRNTAtRXFWNmtkQTh0VlFfbm1ManZOVTkzQ1lBdkJ6N0prOEdCUXFhbmFqY0t1SmFHMVFYQnd0T194ZHpmNEZZMm1TQTB3dEdJRldwNUZkdFRsTmFNeGNhNlVvSW9fWTBMNjJIWG9oVzJwRHNPal9RbW1rUE01S0xRM1JWY3VxV050WmdYMWxIR21SUENRVlRra1dnd21ibHdsd2VpdXZMOTUtZlNfa1BraVRQcDNkLWhpMVBjNDR5RVI3bWZiZUpEY1VJY21sSFEyZEJxMlpJODF6SFZjU2h2dExFNjkyUnc1YUhoTkYwakhuOUVfT0llRmF1bExRNkZlRGUxYjlTeHFrZEx3VURTekxBblVWemw0dXZJTHhYRi1wMkZMVlA0aHlYbTZ5YUpsaEg?oc=5",
+      "src": "星島頭條",
+      "cat": "主流新聞",
+      "dt": "2026-11-23 06:00",
+      "desc": "THEi高科院校長劉建德：冀升格應用科學大學越快越好 對進駐北都持審慎觀望態度"
+    },
+    {
+      "title": "走進校長室｜THEi高科院校長劉建德 奪傑出青年工程師獎 最愛聽「譚校長」",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNaUZiRnlCMmVvQWNYQmRXTkp6NG1UWG1NZlhyNl92eDBaX3NDRjd5eVZZT3hrLU52UUpRUzJsNlc0SmFhWVRLVTNqdzVtOTFld29nTk1OaHVNdGhnOTBQOW94c2Y3X3prY3JZY0plOEozS3VncTc5RGxtaU9CcDAtak5kbnJJOXFHYnkwcF8ybzFaOXZZSE1ZZklJNE8tZlRXMmVJZGpFZTM5S3prNG00eWMtcExlZVMxTXY2OUhWWWxpcGJwMWE5Sm45TXhHbkhjdEY2UnpvbERVS2V6UjA1X2tPdUhJVFZ6YjVSWFFGTjAyQlFHRE9JX3BFV0xubE5ySElwRHNaaDJySmhJNll4d1doeEtZSzh0ZWl4eGVUVHM4R2ZRRW41ODVCLVB1b3BrcGdxXzNMS3ktYVVsQ0lhTENWYWk4YmxHRHppSmRXMXFuVG5zaTl5MVlDQkRzazBUdjNxbE9RN0dXcDc4RHBFTnpiWTFzMWEzendiN1lNXzFyaEhFbzVaTFh6UGJfdUFTd1haSVkwSHJOZFZlaTNqb0F2QVJDQlNXcVl6eHlEZDE1UQ?oc=5",
+      "src": "星島頭條",
+      "cat": "主流新聞",
+      "dt": "2026-11-23 06:30",
+      "desc": "走進校長室｜THEi高科院校長劉建德 奪傑出青年工程師獎 最愛聽「譚校長」"
+    },
+    {
       "title": "Rolex / Tudor討論區114( 置頂有QA ）",
       "link": "https://lihkg.com/thread/4179658/page/1",
       "src": "連登討論區 LIHKG",
       "cat": "社區輿情",
-      "dt": "2026-11-23 01:53",
-      "desc": "連登熱議｜回覆數：27｜正評：0 / 負評：3"
+      "dt": "2026-11-23 10:52",
+      "desc": "連登熱議｜回覆數：30｜正評：0 / 負評：3"
+    },
+    {
+      "title": "【準備換季】經典男裝討論【西裝、皮鞋、皮具】",
+      "link": "https://lihkg.com/thread/3990069/page/1",
+      "src": "連登討論區 LIHKG",
+      "cat": "社區輿情",
+      "dt": "2026-11-23 09:19",
+      "desc": "連登熱議｜回覆數：909｜正評：27 / 負評：14"
+    },
+    {
+      "title": "[錶撚入] 擺低你哋戴緊嘅錶 (148)",
+      "link": "https://lihkg.com/thread/4121864/page/1",
+      "src": "連登討論區 LIHKG",
+      "cat": "社區輿情",
+      "dt": "2026-11-23 09:18",
+      "desc": "連登熱議｜回覆數：880｜正評：1 / 負評：3"
     },
     {
       "title": "[Casio] G Shock 討論區（10）",
@@ -100,14 +180,6 @@
       "desc": "連登熱議｜回覆數：641｜正評：1 / 負評：5"
     },
     {
-      "title": "[錶撚入] 擺低你哋戴緊嘅錶 (148)",
-      "link": "https://lihkg.com/thread/4121864/page/1",
-      "src": "連登討論區 LIHKG",
-      "cat": "社區輿情",
-      "dt": "2026-11-22 17:12",
-      "desc": "連登熱議｜回覆數：879｜正評：1 / 負評：3"
-    },
-    {
       "title": "［燒錢台］手袋分享區（96）請善用不推文回覆",
       "link": "https://lihkg.com/thread/3885492/page/1",
       "src": "連登討論區 LIHKG",
@@ -116,20 +188,12 @@
       "desc": "連登熱議｜回覆數：940｜正評：7 / 負評：20"
     },
     {
-      "title": "喺大學比人笑啲英文講得好差",
-      "link": "https://lihkg.com/thread/4183036/page/1",
+      "title": "多間中小學國安報告列明  「監察師生上網紀錄」  自攜裝置亦須加裝監管系統",
+      "link": "https://lihkg.com/thread/4183619/page/1",
       "src": "連登討論區 LIHKG",
       "cat": "社區輿情",
-      "dt": "2026-11-23 07:17",
-      "desc": "連登熱議｜回覆數：133｜正評：166 / 負評：37"
-    },
-    {
-      "title": "內地女轉考DSE上大學崩潰！　哭訴3大痛苦失幸福：香港空氣加了什麼",
-      "link": "https://lihkg.com/thread/4183307/page/1",
-      "src": "連登討論區 LIHKG",
-      "cat": "社區輿情",
-      "dt": "2026-11-23 08:17",
-      "desc": "連登熱議｜回覆數：99｜正評：4 / 負評：135"
+      "dt": "2026-11-23 11:58",
+      "desc": "連登熱議｜回覆數：45｜正評：7 / 負評：35"
     }
   ]
 }
