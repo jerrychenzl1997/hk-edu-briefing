@@ -136,7 +136,7 @@ def collect_rss_sources():
         ("明報·觀點", "https://news.mingpao.com/rss/pns/s00012.xml", "mp_op"),
         ("明報·即時港聞", "https://news.mingpao.com/rss/ins/s00001.xml", "kw"),
         ("香港電台RTHK", "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml", "kw"),
-        ("政府新聞公報", "https://www.info.gov.hk/gia/general/ctoday.xml", "kw"),
+        ("政府新聞公報", "https://www.info.gov.hk/gia/rss/general_zh.xml", "kw"),
         ("灼見名家", "https://www.master-insight.com/feed/", "kw"),
     ]
     results = []
