@@ -3,6 +3,7 @@ import re
 import glob
 import json
 import time
+import base64
 import urllib.parse
 import datetime
 import requests
@@ -73,6 +74,34 @@ def is_ad_or_evergreen(title, url=""):
     return False
 
 
+# 外國教育新聞過濾：標題含外國地區標記且不含香港標記則剔除
+FOREIGN_MARKERS = ["韓國", "韩国", "南韓", "南韩", "韓", "韩", "日本", "美國", "美国", "英國", "英国",
+                   "台灣", "台湾", "臺灣", "新加坡", "澳洲", "加拿大", "法國", "法国", "德國", "德国", "印度"]
+HK_MARKERS = ["香港", "港", "大灣區", "大湾区", "灣區", "湾区", "北都"]
+
+
+def is_foreign_news(title):
+    if not title:
+        return False
+    if not any(m in title for m in FOREIGN_MARKERS):
+        return False
+    return not any(m in title for m in HK_MARKERS)
+
+
+def decode_google_news_url(gnews_url):
+    """將 Google News 的 /articles/CBMi... 跳轉鏈解碼為原文直鏈；解碼失敗則返回原鏈。"""
+    try:
+        token = gnews_url.split('/articles/')[-1].split('?')[0]
+        padding = '=' * (-len(token) % 4)
+        raw = base64.urlsafe_b64decode(token + padding)
+        match = re.search(rb'https?://[\x20-\x7e]+', raw)
+        if match:
+            return match.group(0).decode('ascii', errors='ignore')
+    except Exception:
+        pass
+    return gnews_url
+
+
 def is_mingpao_teaching(title):
     if title.strip() == "答案":
         return True
@@ -108,6 +137,7 @@ def collect_rss_sources():
         ("明報·即時港聞", "https://news.mingpao.com/rss/ins/s00001.xml", "kw"),
         ("香港電台RTHK", "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml", "kw"),
         ("政府新聞公報", "https://www.info.gov.hk/gia/general/ctoday.xml", "kw"),
+        ("灼見名家", "https://www.master-insight.com/feed/", "kw"),
     ]
     results = []
     for src, url, mode in feeds:
@@ -154,6 +184,7 @@ def collect_google_news_hk():
         "香港 教育局 OR DSE OR 學校 OR 殺校 OR 縮班",
         "香港 大學 OR 港大 OR 中大 OR 科大 OR 教資會",
         "香港 愛國主義工作小組 OR 鄧飛",
+        "香港 教育 OR 教育局 OR DSE OR 學校 site:youtube.com",
         "site:hk01.com 教育 OR DSE OR 學校",
         "site:stheadline.com 教育 OR DSE OR 學校",
         "site:scmp.com Hong Kong education OR university OR DSE"
@@ -168,11 +199,13 @@ def collect_google_news_hk():
             feed = feedparser.parse(resp.content)
             for e in feed.entries[:15]:
                 title = e.get("title", "").strip()
-                link = e.get("link", "").strip()
+                link = decode_google_news_url(e.get("link", "").strip())
                 dt = parse_rss_dt(e)
                 if not dt or not in_window(dt) or link in seen_links:
                     continue
                 if is_ad_or_evergreen(title, link):
+                    continue
+                if is_foreign_news(title):
                     continue
                 seen_links.add(link)
                 parts = title.rsplit(" - ", 1)
@@ -195,7 +228,7 @@ def collect_lihkg():
         "X-LI-DEVICE": "web"
     }
     endpoints = [
-        ("https://lihkg.com/api_v2/thread/category?cat_id=13&page=1&count=30", False),
+        ("https://lihkg.com/api_v2/thread/category?cat_id=13&page=1&count=30", True),
         ("https://lihkg.com/api_v2/thread/hot?cat_id=1&page=1&count=40", True)
     ]
     seen_threads = set()
