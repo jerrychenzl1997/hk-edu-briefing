@@ -31,7 +31,8 @@ EDU_KEYWORDS = [
     "國際學校", "北都大學城", "留學香港", "八大", "港大", "中大", "科大", "理大", "城大", "浸大", "嶺大", "教大",
     "都大", "恒大", "樹仁", "VTC", "職訓局", "副學士", "高級文憑", "獎學金", "呈分試", "TSA", "學友社",
     "教聯會", "津小議會", "中學校長會", "輔導", "欺凌", "學童自殺", "三層應急機制", "研資局",
-    "愛國主義工作小組", "愛國主義教育工作小組", "爱国主义工作小组", "立法會議員鄧飛", "立法会议员邓飞", "鄧飛", "邓飞"
+    "愛國主義工作小組", "愛國主義教育工作小組", "爱国主义工作小组", "立法會議員鄧飛", "立法会议员邓飞", "鄧飛", "邓飞",
+    "高校", "北都", "大學城", "航天", "太空人", "升學", "學界", "開班", "辦學", "祖苗", "聯招"
 ]
 
 TRACK_A_FB_PAGES = [
@@ -144,6 +145,10 @@ def collect_rss_sources():
         try:
             resp = requests.get(url, headers=HEADERS, timeout=15)
             feed = feedparser.parse(resp.content)
+            if resp.status_code != 200 or not feed.entries:
+                print(f"[WARN] RSS {src}: HTTP {resp.status_code}, {len(feed.entries)} entries parsed "
+                      f"(possible anti-bot block, wrong URL, or no recent items)")
+            src_count = 0
             for e in feed.entries:
                 title = e.get("title", "").strip()
                 link = e.get("link", "").strip()
@@ -158,46 +163,54 @@ def collect_rss_sources():
                     if is_mingpao_teaching(title):
                         continue
                     category = "觀點評論" if ("：" in title and not is_edu(title)) else "主流新聞"
+                    src_count += 1
                     results.append({
                         "title": title, "link": link, "src": src, "cat": category,
                         "dt": fmt_dt(dt), "desc": desc[:500]
                     })
                 elif mode == "mp_op":
                     if is_edu(title + " " + desc):
+                        src_count += 1
                         results.append({
                             "title": title, "link": link, "src": src, "cat": "觀點評論",
                             "dt": fmt_dt(dt), "desc": desc[:500]
                         })
                 else:
                     if is_edu(title + " " + desc[:100]):
+                        src_count += 1
                         results.append({
                             "title": title, "link": link, "src": src, "cat": "主流新聞",
                             "dt": fmt_dt(dt), "desc": desc[:500]
                         })
+            print(f"[INFO] RSS {src}: {src_count} items (in window)")
         except Exception as ex:
             print(f"[WARN] RSS {src} failed: {ex}")
     return results
 
 
 def collect_google_news_hk():
+    # (查詢語句, require_edu)：require_edu=True 時標題必須含教育關鍵詞（用於 YouTube 等雜訊多的信源）
     queries = [
-        "香港 教育局 OR DSE OR 學校 OR 殺校 OR 縮班",
-        "香港 大學 OR 港大 OR 中大 OR 科大 OR 教資會",
-        "香港 愛國主義工作小組 OR 鄧飛",
-        "香港 教育 OR 教育局 OR DSE OR 學校 site:youtube.com",
-        "site:hk01.com 教育 OR DSE OR 學校",
-        "site:stheadline.com 教育 OR DSE OR 學校",
-        "site:scmp.com Hong Kong education OR university OR DSE"
+        ("香港 教育局 OR DSE OR 學校 OR 殺校 OR 縮班", False),
+        ("香港 大學 OR 港大 OR 中大 OR 科大 OR 教資會 OR 研究 OR 課程", False),
+        ("香港 愛國主義工作小組 OR 鄧飛", False),
+        ("香港 教育 OR 教育局 OR DSE OR 學校 OR 升學 OR 派位 OR 選校 OR 學界 OR 校園 site:youtube.com", True),
+        ("site:hk01.com 教育 OR DSE OR 學校 OR 大學 OR 課程 OR 收生", False),
+        ("site:stheadline.com 教育 OR DSE OR 學校 OR 大學 OR 課程 OR 收生", False),
+        ("site:mingpao.com 教育 OR DSE OR 學校 OR 大學 OR 課程 OR 收生", False),
+        ("site:scmp.com Hong Kong education OR university OR DSE", False),
+        ("site:thestandard.com.hk Hong Kong education OR university OR students", False)
     ]
     results = []
     seen_links = set()
-    for q in queries:
+    for q, require_edu in queries:
         encoded_q = urllib.parse.quote(q)
         url = f"https://news.google.com/rss/search?q={encoded_q}&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
         try:
             resp = requests.get(url, headers=HEADERS, timeout=15)
             feed = feedparser.parse(resp.content)
-            for e in feed.entries[:15]:
+            q_count = 0
+            for e in feed.entries[:25]:
                 title = e.get("title", "").strip()
                 link = decode_google_news_url(e.get("link", "").strip())
                 dt = parse_rss_dt(e)
@@ -207,7 +220,10 @@ def collect_google_news_hk():
                     continue
                 if is_foreign_news(title):
                     continue
+                if require_edu and not is_edu(title):
+                    continue
                 seen_links.add(link)
+                q_count += 1
                 parts = title.rsplit(" - ", 1)
                 clean_title = parts[0]
                 src_name = parts[1] if len(parts) > 1 else "港媒綜合"
@@ -215,6 +231,7 @@ def collect_google_news_hk():
                     "title": clean_title, "link": link, "src": src_name, "cat": "主流新聞",
                     "dt": fmt_dt(dt), "desc": clean_title
                 })
+            print(f"[INFO] Google News query [{q[:40]}]: {q_count} items")
         except Exception as ex:
             print(f"[WARN] Google News query '{q}' failed: {ex}")
     return results
@@ -268,6 +285,7 @@ def collect_lihkg():
                 })
         except Exception as ex:
             print(f"[WARN] LIHKG fetch failed: {ex}")
+    print(f"[INFO] LIHKG: {len(results)} items")
     return results
 
 
@@ -316,6 +334,7 @@ def collect_apify_track_a():
             "dt": fmt_dt(NOW_HKT),
             "desc": f"互動數據：👍{likes} | 💬{comments} | 🔁{shares}\n貼文正文：{text[:600]}"
         })
+    print(f"[INFO] Apify FB Track A: {len(results)} items")
     return results
 
 
@@ -377,6 +396,7 @@ def collect_apify_track_b(today_news):
                 "dt": fmt_dt(NOW_HKT),
                 "desc": f"熱度：👍{likes} 💬{comments}｜觀點正文：{text[:500]}"
             })
+    print(f"[INFO] Apify FB Track B (escalation): {len(results)} items")
     return results
 
 
