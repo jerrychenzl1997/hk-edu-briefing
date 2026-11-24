@@ -15,6 +15,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      - name: Duplicate-run guard (skip if today's briefing already exists)
+        id: guard
+        run: |
+          TODAY=$(TZ=Asia/Hong_Kong date +"%Y年%m月%d日")
+          if [ -f latest_briefing.md ] && head -50 latest_briefing.md | grep -q "$TODAY"; then
+            echo "Today's briefing ($TODAY) already generated - skipping this duplicate run (no push)"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No briefing for $TODAY yet - proceeding with full pipeline"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
@@ -22,16 +34,19 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
         run: |
           pip install -r requirements.txt
 
       - name: Run news collector, Apify dual-track & 30-day JSON archive
+        if: steps.guard.outputs.skip != 'true'
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
         run: |
           python collector.py
 
       - name: Generate briefing, Microsoft TTS audio, mobile HTML & push to WeChat
+        if: steps.guard.outputs.skip != 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
