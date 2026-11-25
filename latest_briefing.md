@@ -1,57 +1,58 @@
 # 🎙️ 香港教育新聞早報
 
-**發佈日期**：2026年11月25日（星期二）  
+**發佈日期**：2026年11月26日（星期四）  
 **主編**：資深教育政策分析師兼新聞總編輯  
 
 ---
 
 ### 📌 今日教育頭條
 
-1. **【重大事件持續追蹤】教師執業證書機制爭議延燒 教育界憂官僚化加劇離職潮**
-   * **核心事實**：繼日前資深教育工作者馮志豪公開撰文質疑「教師執業證書三年一續」的官僚化風險，以及香港中學校長會開腔建議折衷改為「五年一續」後，該議題在教育界與前線教師群體中的討論持續升溫。學界普遍認為，在學齡人口結構性收縮與殺校陰霾下，師資穩定本已脆弱，若將傳統註冊模式改為具年期限制的定期續期，並綁定繁複行政審查與進修要求，恐進一步消耗教學熱忱 `[香港01]`。
-   * **影響解讀**：隨著校長會介入倡議放寬至五年一續及放寬代課教師限制，反映出學界在配合官方合規監管與力保前線教學自主之間的兩難。如何在維護教育質素與避免過度行政干預之間取得平衡，已成為當前重大管治考驗。
+#### 1. 【重大事件持續追蹤】《教育修訂條例草案》立會二讀 教局堅拒「五年一續」方案 強調執業證三年期「合適非為難」
+* **核心事實**：教育局局長蔡若蓮正式在立法會動議二讀《2026年教育（修訂）條例草案》，確立教師執業證明書須每三年續期一次，並訂明干犯危害國家安全罪行者將被依法取消註冊 `[政府新聞公報、星島頭條]`。針對早前香港中學校長會及教協前代表建議放寬至「五年一續」以紓緩前線行政壓力的折衷方案，教育局公開表態定調為「不切實際」，重申三年一續能兼顧教師持續專業發展與公眾對師資的期望，強調進修要求並非「為難」教師 `[明報、星島頭條]`。多位政界人士（如全國政協委員樓家強、立法會議員范駿華）撰文支持修訂，認為有助「灌注活水」；但教育界代表田方澤與羅浩源等則投書質疑局方如何重拾前線信任，憂慮審查機制造成寒蟬效應及行政消耗 `[明報、星島頭條、香港01]`。
+* **影響解讀**：隨着條例草案進入二讀，當局政策立場極其堅定，並未給予彈性折衷空間。在學齡人口下降、學校面臨縮班殺校壓力的背景下，將終身註冊制改為綁定嚴格進修時數與背景審查的週期性執照，固然能提升合規門檻，但極可能進一步推高資深教師的職業倦怠感，加速師資流失。如何在硬性合規與守護教師專業熱忱之間取得互信，是該條例通過後前線落實的最大考驗。
+* **相關連結**：[政府公報](https://www.info.gov.hk/gia/general/202611/25/P2026112500401.htm) ｜ [星島頭條](https://news.google.com/rss/articles/CBMiwwJBVV95cUxNOFVPWGhEM0o5UDlDUy03MTVrVWtYcE5sWXVXaHNRNlJTMUpjU3ZMcDFkdzRGbi12N2dRUlJUaGt6VnNrbkMwUUJPNjQyWjA3ekVQWW5ueHpwWXVjNFpVN1ZNcU0wVFJueDZfclRUYmdKSHdXODUxZk5hRTBfaHRUWGhCSlY0MFVHNW5tMUNTZmpNV0JESi1CRWpPbVJkY3ZZUkxRZnU1U0FvRVAtNEZDSmwzM2NJdFpBaDYxTXVBeGNQMDZUTVNieThZcjRxaGJ3UlduN1ZSeTlPRlY0Y01mdHFwc3Rkc1BtTzVUa2ZoY3FKcTRLMjdXUUswbEg1RzY0U2hZYTBRMUpfRlEyUkNZREllUElPTXg1OTlBd053N1dnVXZKZ09Na1MwbW04QTZpWFc0TThXZEEzSVFTay1uNzBsdw?oc=5) ｜ [明報](https://news.google.com/rss/articles/CBMiugJBVV95cUxOdmpxYkdpWndGMTZpVGUxUTFUSGZvOFNRYkJjd2VET2NaYUxkMXE5eWtkY1RLTkQ0cTlEbFpaRTRKUG1leWhCWlkyQ3BOeFVXV2I4NWRPeVpJVTFocWlvc0UyeFZJbmhRRzZwOUlyYTVrVkhISTJyb3BuQjFReU1fdHJwc180YjFDSkotR2FLUmJ5MV9YeG1KTk9MZm5YcDZLLWZhZzBDYlNFRHZxR3RZSjhBZDA0WnhWS1dlMTZVV3RGbnRzM3FvM3RuakZTLV91RTFLTUdUMFM2Z0VLWE1hU3dJZXdUVGpqOHRjQ0tNWVZ2eHFLcWRTUFBhMjdjdjdLTUZqQUNlLVdBNFI4Mjg4ejJiWXN1WEc3aThHLS12eXJMOHdnMlRrWWJjdG1EOVZ6V0txYVhZTWlxZw?oc=5)
 
-2. **【跟進】保良局李城璧中學強制DSE生晚間留校自習惹議 校方承諾從善如流檢視安排**
-   * **核心事實**：保良局李城璧中學早前向應屆DSE學生發出通告，強制要求學生晚間留校自習，未經批准缺席更視為曠課，隨即在學生群體及社交平台引發強烈反響。學生普遍不滿自主溫習空間被剝奪，且校方未妥善安排晚間用餐時間 `[香港01、星島頭條、Facebook]`。事件發酵後，校方發聲明回應表示會「從善如流」，重新檢視及改善有關自習安排。
-   * **影響解讀**：此事件反映出中學在面對公開試壓力時，若採取一刀切的「高壓式」備戰策略，極易激起學生物極必反的自主權爭議。校方迅速回應並承顧學生訴求，為學界在處理溫習行政與學生精神健康之間提供了一個緩衝示範。
+#### 2. 【重大事件持續追蹤】小一自行分配逾70校收生不足 逾千剩餘學額撥入統一派位
+* **核心事實**：2026/27學年小一「自行分配學位」階段結果公布後，全港逾70間官立及資助小學收生未達標，累積逾千個未用盡的自行分配學額將撥入明年2月的「統一派位」（大抽獎）池中 `[香港01、星島頭條]`。數據顯示，名校與普通學校的收生差距進一步拉大，傳統名校持續出現嚴重「超收」蠶食大抽獎學額，而部分非核心區或基層辦學團體的小學則面臨嚴峻的「零班」或縮班危機。
+* **影響解讀**：學齡人口斷崖式下跌的震盪效應持續發酵。大抽獎學額的異常倒灌，表面上增加了家長透過電腦派位進入部分學校的機率，實質反映出基層與弱勢小學收生底盤劇烈萎縮。未來一至兩年內，學界料將迎來更劇烈的整併與「被動殺校」潮，辦學團體如何整合校舍資源、加強特色辦學將成保校關鍵。
+* **相關連結**：[香港01](https://news.google.com/rss/articles/CBMisgNBVV95cUxObUdRTE9KMUtKc1cyaXpyRTlYMk5mck9XSFFuYUd6bzhKUmxmY1ZjSEVVb0MyMnBoN21WcmxzSGZSNko1cXZ6Sl9zR2Vqcm9scDYwNXRxSUljd1JUYVZmLTYxaW5wN0RXTVRWakpieGxSNzB1T1lWYXhkQXNCajdrbTJuMW8zOF95RnNqYXI0SnFlbjNBS09pa0V3NjJHbG1Idl96ZU1XUjNlRS0yYmlvOWROZ21yVmYtbERrcTFiZFdfYmNGNDczbG1NcXpKa2w2RjlKOVFNdEthckhHcVlBelFGNUI0UlVFTWlMdzBsS1JjM1l3S0Y3czdiQVcxQmpIMW5YRGR4TlhoRkhCMkxxMHBJYlhiN3NmN3E1Q1FLUFRjY1pZYjJqYUViWnFYR2dEVkhwbTBYOTF2Ql9xX0QxaG93NXVydGRkdl9ETkpQemVidk5lclJIWHV3YUtpdmJ3Uk1EMThCUjM0TTZpbUZBbE5iSW9FSThXNEpMZ0xFNGhQeW1nQkkwMFpOOEtwa3JsR1BiU01EaGtQYTlwb3hJY0NZVG0wcVhyODJEM1ItTTN2dw?oc=5) ｜ [星島頭條](https://news.google.com/rss/articles/CBMi_wNBVV95cUxQUTBYczFnbTZGSW5CMC1tdmdyTzB0TEpVdFhad2s2RHZVdEtNR0VNXzhyVlZxRC1GVWxDclZ2MHFhYTZMenNvYzV6cFM4NTNUbDZ3UnZWVXVJaVB4eU9FSkYzNFN0bU9TSWw0d1V4M3B4TERTMmltaDJsY2I1YVhGY0ktOGNWNGlhYkRXN2N1RWctU09fZjFQMEJ6RDNUVDcyamJRSEtudWdyZTc5UzdnWXpQU0JrallJbTM3aDNrMDc4RFpBREdoZGREbmlRZW9lNExVUDUyMnhRWnRtaGluN3B1Nk5ldlZ6ckI3NjM2MVZQOWtmSThsNk9NZVBKTU5GcXVkeE01RDU0VkJzVVBHRFFjRUNuX3l2RHNfLU0xLTcwNWFWQkpFaUNpXzFuQjJaVW1TZVhxOTBFNHZ1UVg2b2tuUTZ0WncyaGFYWm93Z2ZGektlZkZmX05IQndDNVJzQks4S3dmbndqUzBtYXo2M0trYlZBT1hkVXd3ajVNdzAweXRVOE1Hck85QUpsbXFzTldESjl1RVlqZmdGNU9NLXo2VmJRMFphcjlsVURXck1LMklfM2ZaYTF1MHR2UXktd2N0TmJfcWFpbkM0cjZ6WUQzeG1wWl9oaWhuZlhsdTUzR2NOaC1ISnpiSEc1UmZ6UElNaXIyX2VHMlpmWm8w?oc=5)
 
-3. **【跟進】小一自行分配學位結果揭曉 71間小學收生不足引發殺校憂慮**
-   * **核心事實**：2027/28學年小一自行分配學位派位結果剛於日前出爐。最新數據顯示，全港共有高達71間小學出現收生不足情況，合共逾千個學額被逼撥入統一派位，部分學校更出現嚴重超收蠶食大抽獎學額的現象 `[星島頭條、香港01]`。不少家長坦言受近年來港高才通及人才計劃影響，熱門名校競爭激烈，甚至有家長月花2萬元為子女報讀興趣班增添勝算；然而相對之下，地區學校則面臨嚴峻的縮班殺校壓力。
-   * **影響解讀**：適齡學童人口結構性下跌與人才計劃帶來的結構性分化同時並存，導致「冰火兩重天」效應加劇。基層及地區學校面臨的生存危機未見緩解，對整體基礎教育生態構成深遠衝擊。
+#### 3. 立法會聚焦學生福祉：校園網絡欺凌現監管真空 議員促引AI識別與第三方獨立調查
+* **核心事實**：立法會議員鄧飛就校園及網絡欺凌問題向教育局提出質詢，促請政府研究運用人工智能（AI）技術識別網絡欺凌內容、訂立平台下架時限，並參考海外經驗設立獨立第三方跨專業調查機制，減輕學校前線調查負擔 `[政府新聞公報]`。教育局書面回覆重申對欺凌「零容忍」，但強調目前仍以校本輔導機制與家校合作為主。同日，勞工及福利局局長孫玉菡亦就SEN學童學前康復輪候期長達一年半之現狀接受質詢，承諾優化早期介入服務 `[政府新聞公報]`。
+* **影響解讀**：現今校園欺凌型態已從實體肢體衝突大幅轉移至社交媒體及匿名論壇，傳統校本訓輔模式往往因「缺乏取證權」與「網絡監管死角」而顯得被動。議員倡議引入AI技術與跨專業法定機制，顯示學界與政界正試圖推動將校園身心健康保障升格為法律與技術協同的治理層面。
+* **相關連結**：[校園欺凌質詢答覆](https://www.info.gov.hk/gia/general/202611/25/P2026112500223.htm) ｜ [SEN支援質詢答覆](https://www.info.gov.hk/gia/general/202611/25/P2026112500207.htm)
 
 ---
 
 ### 📱 社交平台核心信源與深度輿情（FB / 連登 LIHKG）
 
-* **連登熱議：拔萃女書院（DGS）學生違紀風波**
-  * 連登社區今日熱議一宗DGS學生疑在網上流傳吸煙及喝酒自拍短片，畫面引發網民及校友廣泛討論（獲得過百個回覆與熱烈正負評） `[連登討論區 LIHKG]`。校方已迅速回應表示正「嚴肅跟進」。事件再次觸動社會對名校生操守及網絡形象管理的敏感神經。
-* **連登熱議：學界選舉與學生會文化**
-  * 校園台同時流傳關於中學學生會選舉流程繁瑣與爭議的討論（帖文錄得逾百回覆），網民慨嘆現今學生參與校園民主及自主活動的空間備受約束 `[連登討論區 LIHKG]`。
-* **Facebook 專頁動態**：
-  * 教育界專頁及地區群組昨日焦點主要集中於保良局李城璧中學的「強制晚間自習」風波，網民及家長紛紛留言批評校方剝奪學生作息時間，迫使校方最終公開承諾檢視安排。
+#### 1. 前線教師與專頁輿情：對「執業證三年一續」反彈白熱化
+* **爭議焦點**：教育局定調三年一續「合適非為難」，在教職工社群引發強烈迴響。Facebook 教育討論群組及前線教師反饋普遍認為，局方完全低估了前線應對各類合規評鑑、課外行政與公開試指標的繁重負荷。許多教師批評「三年一審」將使教職徹底失去安定感，甚至淪為校內行政管理層變相施壓的手段，讓有心專注教學的同工萌生退意。
+
+#### 2. 連登討論區（LIHKG）熱點剖析
+* **【學店熱議】HKU SPACE 講師拒接納醫生紙惹公憤（回覆數 450+，正評 371 / 負評 30）**：有自資院校學生發帖指控講師拒絕承認註冊西醫簽發的病假條，強行扣減出勤分。網民群起聲討自資大專「官僚主義」與「缺乏同理心」，批評部分院校只顧收生盈利，對學生的基本權益缺乏透明保障機制 `[LIHKG]`。
+* **【院校管治】中大擬修例「損害校譽」可撤銷學位或開除學籍（回覆數 71）**：網民高度關注中大擬收緊校規的傳聞，討論焦點集中在「損害校譽」定義模糊，憂慮校方將其作為整肅學生言論自由及校友批評校政的工具，損害中大傳統的人文自由風氣 `[LIHKG]`。
+* **【醫療校園倫理】沙田威院中大男醫生涉非禮17歲男病人被捕（回覆數 84）**：事件曝光後中大迅速將其停職。連登網民除對受害人表示同情外，亦深切質疑公立醫院與大學醫學院在實習與住院醫生管理監督上的漏洞 `[LIHKG]`。
+* **【青年出路悲歌】北大狀元讀中大碩士月薪七千（回覆數 31）**：內地高考狀元自費攻讀中大碩士後就業不順的討論，引發大批本地與非本地畢業生共鳴，網民感嘆兩地高學歷溢價不再，反映出大專擴招後的就業結構性失衡 `[LIHKG]`。
 
 ---
 
 ### 🏫 基礎教育與學界動態
 
-1. **浸信會永隆中學男生涉校內偷拍女同學裙底被捕**
-   * 警方及傳媒報導，浸信會永隆中學發生校內風化案，一名男學生涉嫌在校內偷拍女同學裙底被捕，校方已第一時間向教育局及家長通報，並啟動危機處理小組協助受影響學生 `[香港01]`。
-2. **瑪利諾神父教會小學新任校長推動無精英班教育**
-   * 瑪利諾神父教會小學新任校長馮家俊接受專訪表示，學校將維持不設精英班的方針，致力培養學生的自我同理心與全人發展，打破傳統名校過度競賽的迷思 `[香港01]`。
-3. **學界科技與文化活動：蔚來新能源車教育中心進駐THEi**
-   * THEi高科院宣佈夥拍車企蔚來設立新能源車教育中心，獲贈非賣品零配件支援學生進行工程實戰訓練 `[香港01]`；同時，香港太空館宣佈由香港首位載荷專家黎家盈參與的航天展覽正式免費對公眾開放 `[政府新聞公報]`。
+* **逆市擴班亮點：5間傳統英中獲批「4變5」擴班**：教育局最新公布擴班名單，上水鄧顯、港島民生、聖馬可中學等5所具實力名校獲准由中一4班擴至5班，在學齡人口萎縮大潮中憑優質辦學口碑逆勢擴張 `[香港01]`。 [原文](https://news.google.com/rss/articles/CBMikwNBVV95cUxNcGZobDdqMGd3YUczQldkLU1VTU9MTGZwQU5nUUNwYWk1aERYbi0xRURjTXZ0Z3loWXotbnFGTksycWZNNDJqTXVrTldxWGQ2WWZMc294MDhrZ1NnWnlKNnhYY1BuUGVxdWZzSE1DTzZ1OENYYXM2bE1FSFN3M2lxcWV2RTFQVlllS3lIRmxDOEZPMTVhaE5LaVdUZ0xyOTQwdEdPMFVRbmcyS25BNWZRaFlLRXpzcWNybU5xQ3RzVXdZa3ZMc0gxTkVtNUNuek1fMWxRMnR3VjNJQ3R0QnJnbm5XRW90WThBZEZKdFFxZUdmbWVRaXVaRk90ak1QR3JBdGdaZkhTcTVyMDhZd0NDVE50U1JwaFhyR0J1b0RmWjl2b01lTnl1Z3ZiXzQyczBpVlhzc29JdXhtdy15aW85SDdsNDIycEZjLUZSMGhObUVpOFZNSW8tamRZOGd0NFU2OUZQZTdXZ0YxTUJPcnI2ZVRBUXoxV0xnMkVKQkMwRzdwdURfQkNNTHk4NHBzbEJTcXdF?oc=5)
+* **校園食安風波：聖公會3小學飯盒現異物**：聖公會旗下3間小學採用同一供應商午膳，接連有家長與學童反映飯盒內出現頭髮及昆蟲雜質。食環署證實曾接獲3宗投訴並派員跟進，校方正考慮啟動合約檢視程序 `[香港01]`。 [原文](https://news.google.com/rss/articles/CBMiygNBVV95cUxQMzR3R1NCNGI2RGdUS205cjl2U3BLLURGX0YzazhvUWxUMnFNRlZvMjg1bDNVb05IVENsMTFzRFAwSUc5VGVGeUhSTGl3NnlmZVlHdFlKVjF4NGRlNVdoZG5iUXA0SU5ZWDNUSGpHXzZoLTJUZTBfUHJjYUFNSmRJZzlDOEV2OUI0OWxwNndyWGFhT20yNEx2ME1INFdsUlJOYmkwQkltU3ppRWUwUFBNNjItVWtxOG1mZ21NTjExQTVhdmpsNjYxV2MtVXYwWGJpRFV0NDJMM2ptTmtxN3FKa3djZEF6S0p3dW5zZTZXSzB4ZDVzdFFXM0g4akhUZmhyNHZjYUQ5b0p5VDlqczQ5M242MHZMRlFvTTUwcGUtM2xQWGREblZIWWJEZFFMb1ZFQi1sMWcyVXpmTEdJMGJmcy1HZTFqTGluOE9ERktPOWRYZXdZX3JFTzVBQ0d6bUYwQnkwSlNQcVplU0RBcFRQRUQwSjhqUWZSUW11ZThmQ2pfeWhDZF9PUUpTSV9XbDVLUUpSVDYwSHNscW9ycWdMeTk3aldwSlBNVW5UYjNnWVNxVEZUZENjVEJuTjEtYVhURzUyRjhsVndDZw?oc=5)
+* **學生AI應用現「數碼鴻溝」：作業代筆致成績倒退**：最新學界調查指出，中小學生在生成式AI運用上呈現嚴重兩極化，部分學生過度依賴AI生成答案應付功課，導致基礎思維退化、測驗成績反常下滑，學界呼籲教育局盡早推出中小學AI倫理使用指引 `[香港01]`。 [原文](https://news.google.com/rss/articles/CBMiwANBVV95cUxNNk9CMnhSZlI3WVRpVTBYLUtqamgtM0hzdFlfMnRzTnJEMWtmYzFMUklkWE9UX05RTEJ3cHpIUU91eWF6blZyaElNNllXTVBDd2F1WHAtUktTVW1FYjhLZkY3LURBRzl1T0FuTlVxYzdYbzZwdzhud0VKZHh0MklvanpjSkZWUWI5Y3JpNFFCeDFyS3hjSzFlVkJkUVVUc3JobF9UVzlqRHFmSVZtbDhvWmxrbHJTQVFfc1czWEkyekp3SFNVRUhLQ0IyOEVfa2M4VUR0b3ptT0J3UW5HRlhPYmx4RU5TUUVET2RLS3M0SVhsODgxXzFXNHNkOF9VQllDR28wOVE1SmZObmxQVm1zWEd0aEFwb21UU0lxUzNMZ2gxV3drZEZnRFlQUWg5SnpjbkdqWnRfYjJnQVljSmF1S0VmYUNRa292blZDVHZKME9wdXdWbzlFUEo5VE1rallDaVY1SGdHN2puU01ZQ0s0NExEeHdUU0ZLT1lBaEFZQlp4TmRYZzhrT1JWZmxuTk9jZ19TV2NuWk5ZbzhfcS13MzF1Nmh4eXlkTzRqakpPcHhaV0xweFIxUVp3T0d0Qnd0?oc=5)
+* **特色辦學新實踐**：嗇色園主辦可立小學首度將「戲劇教育」納入正規常規課程，藉情境演練培育學生兩文三語表達力 `[星島頭條]`；瑪利諾神父教會小學新校長馮家俊則宣布全面取消精英班分軌，改推同理心與全人發展教學模式 `[香港01]`。 [星島原文](https://news.google.com/rss/articles/CBMi4gNBVV95cUxNZHZhYzhmZFM5UVFLRTZMMURucXVjczhFYnR4QTZRQmRZYUhscFNEODlySklNQ3lZUVZTUDdyYk4ySTN4TW1HNkUxNkR4YVZUd0NFT3l0cnMxN3NEZlpCWWtqMlBuME9jNXQ3RDk5ZG8xVXA3N2ZtY0U3cVJ6UjFqczh3eWpXeTFXRm1UdjB5WTdrdlV0VmM0TENxYlhJdTV6cXdPWndPMTJFbk9DMFVVb29STDYweHFhdWlRWjlqQUtwcEJqbHowQWNLZEQxN1J0NG5xUmR5ckZjYnF3cWF2SExJa0tEWFJodHA3bFJrYndYUDA4RVhDbG1SdVVDdnNqY05kQW5QVDZzak5ZNlk4TjdpWElnQlg0VTl6Q2VSbVJFblhfYzViRU01czNmSGZYUFR5dDdpanJ6R0NDUHZQTko2NlItcnZfUTh5RVh6NnlwZTJSZFNGbkRNNS03QjlBZXlDbXRXQ2dyeDVkMHR4M0o0WjQ2WlBOSWdld0dKYkxFNndFaGhhM2V6TUNGUm5uSTVJSDlnTTdnczlSYmc5bVVnVWhqN2M1QUplTGpDSndQd3FqTUpxa3UtOVNDNldiX1pVQ3FfRV9TVUgwbE56MF9BVS1sSV83MnNBZXBGM3JzZw?oc=5) ｜ [香港01原文](https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbTg2ejBBSkR1a1RoSzl0MGVsX3pWNnVXbXgwLUVOcWNGQlhjbTAtTGxzdkFTbnd0aHR3UUpab2ZzNkh5WVV3ZHRKbGQxcThqMldNWWhsX09qQkFfTkZfSEpFM1pOUElBQ0xtSG1Wb3RaVmphUDNqZ2FiNllfT1FBY0dacERVQ1BReXVXNHo3R2lzZzhOY2dYeW5XN2ZiaE5xeWZ3NG9yMjBLb1pRTVN2cHFBbm5rVnNyeFg2ZWF2N2UwdDhCY1h0NDhYbGJSSGNMSjBVWFVsNUxmVWdIbmIyc002MnFmVlBJLXgxVXZ0WGVyLTRDcjNLRnM4VkFreFJTX21Za3ZYUlhtVDFtUWo3Umg1YU5JazNxX3JhN2xUa0tGY3dkOExZcE9mMUFiTnA2T3NVYURyMEFydEthTGUtQjRIRVAyZWZZYUliVEFFOWhmaUFsTzNYdzlUYkU4X2oyaDdYM3pqbGlCUWloZHF5UW4zdFZOLXd1dl9JYWY4YmZRYi00RlJfb1cwbUJKTzlaSUd5dmhwVkVScUU3TFBfTzNnQ0tIRkViczE3SjZSQlh5eldUVTAxNFF3RlJNZWJ0QTZMWXpBSl9HQWhFQ2pDeFN3RjNlQl84ekJwX2hMQQ?oc=5)
 
 ---
 
 ### 🎓 高等教育與大專資訊
 
-1. **港大法學院長傅華伶提早三年卸任 下學期「中國人權」課程臨時取消**
-   * 香港大學法律學院院長傅華伶落實將提早三年卸任，其原定於下學期任教的「中國人權」課程亦告臨時取消，引發法律界及高教界高度關注 `[明報、法庭線]`。
-2. **財政司司長訪問英國劍橋推廣北都大學城**
-   * 財政司司長陳茂波率領代表團訪問英國劍橋大學，積極向當地學術及創科界推介香港「留學香港」品牌以及北部都會區大學城的規劃藍圖，吸引國際頂尖人才與科研項目落戶 `[香港政府新聞網、文匯報]`。
-3. **港大啟動「香港守護健康」計劃 擬招募1.5萬人進行長期醫學研究**
-   * 香港大學精準預防研究所宣佈正式啟動大型健康計劃，由諾獎得主團隊牽頭，在港招募1.5萬名市民進行為期10年的追蹤研究，開發可負擔的個人化非傳染性疾病篩檢演算法 `[星島頭條、經濟日報、資本平台]`。
-4. **科大李家誠創科大樓正式啟用**
-   * 香港科技大學舉行「李家誠創科大樓」揭幕儀式，大樓正式投入服務並匯聚三所國家重點實驗室，全面助力香港國際創科中心建設 `[明報、文匯報]`。
+* **港湘聯手構建中醫藥高地：香港中醫醫院締結湖南中醫大第一附院**：醫衞局副局長范婉雯見證雙方簽署戰略合作協議，涵蓋跨境遠程病例研討、藥物相互作用共享資料庫及人才培育，貫徹「十五五」規劃中醫現代化目標 `[RTHK、政府新聞公報]`。同日，中大與《紫荊》合辦「一帶一路」中醫藥校長論壇，聚焦以AI加速循證研究 `[CUHK]`。 [RTHK原文](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVUFyREQwN2JtRmtFX0kxWUx2WGk0SXBFMWp4bk95N3NQb3hJMlIzb00xbnlnb0JRQkRFODBIVlFrbG1xXzY1YVB1MHFfTTQ4ZWNvejhxa1g0SkltclBwOWVTb01LUTRKN1VseVdXM2VJdWJSVWVwaE1BajlPSEgweEpVaER2dWVmYms3cGJQNjFXTEZMRi1ycFF0LWNZVm9oVVN5ck5IVjV3YzJ5ekVmSmRjOTJRREhUNGY0OVJzYjRZRUZpOXBVUERGOEprREpYZjBZQ1A0XzNkUzByc0JmZUk5RWgtZFNVRk5DUWpBaUExOE50Z2pXUUtwLW5pb1k?oc=5)
+* **張翔：港大進駐北都大學城計劃書即將完成**：港大校長張翔透露，進駐北部都會區大學城的新校區藍圖已進入收尾階段，未來將主力推動跨學科前瞻研發，致力打造成具備全球競爭力的國際學術重鎮 `[灼見名家]`。 [原文](https://www.master-insight.com/article/50866)
+* **院校巡禮與國際科研動態**：
+  * **浸大70周年校慶**：校長衞炳江表示將推動教與學全面數碼化，協力鞏固「留學香港」品牌競爭力 `[灼見名家、星島頭條]`。 [原文](https://www.master-insight.com/article/50876)
+  * **港大精準預防研究所**：攜手諾貝爾獎得主啟動跨國「香港守護健康」大型公共衛生隊列研究 `[灼見名家、紫荊網]`。 [原文](https://www.master-insight.com/article/50877)
+* **新質課程前瞻佈局**：嶺南大學新設「創新設計與人工智能理學碩士」（MScIDAI）及整合樂齡科技的社管學士課程 `[紫荊網、星島頭條]`；中大則推出「新質人文」相關碩士，探討人文科學如何適應生成式AI對傳統文科職位的衝擊 `[星島頭條、明報]`。 [星島原文](https://news.google.com/rss/articles/CBMisgNBVV95cUxORC1mdnc0dVZUQlJfNmdqbS1veGE1Y3NhTDBKMWxxZm5wZFNvMWQ4Z1dpWmRyQ0RzaGk5T2FOcmxid1hVM0FEbHItaVlYNlVnb3JNX0pLVXZDNHZyNVJ2RG15ZFFvZ3YwX3FJMjZEbTlDaGl6WGJmOE5RbmZiNE5kckY3ZlBZSXEzbHJzTFhZYmtJNzhrQ2p5aDA2cEMwMHZkZzRZaE5DUENYSi1mNFpHZERkVS1Ia2F4elAtQldwMmtxTzU3OXUzOHFrOFpIa1p5bkJWRy1iaHVwU1V3ZGVUeTNRVlhBSGxDX3pGMG9LbDhIMGxJWnpaVm51dlRZQ0lHd2RkX2cybE5ZNF96VXFSMmphTnp2cXhmbGVqb3BBS1VnWEhoSEREbDNnNG9DaGNPV29EV19BLVNHTGIwSE5YT001b0ZndFdDb2ZNNW1qSVcwV29Xa2NCWWRlR0gtaGF6alRXMGUyZGZqdjdEQWZjZEhHUE9DNnU1QUktbGo2QWZFaGhuS0xEczFwXy1vWjVEeldielNRSHBzN0ZySnNacEYwV0FSOHAtUXdqMlNadU5mdw?oc=5)
 
 ---
