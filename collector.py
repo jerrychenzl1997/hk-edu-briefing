@@ -42,9 +42,10 @@ TRACK_A_FB_PAGES = [
 ]
 
 AD_KEYWORDS = [
-    "BB手語", "飯盒", "流感針", "親子好去處", "即睇活動詳情", "湯水", "食滯",
+    "BB手語", "流感針", "親子好去處", "即睇活動詳情", "湯水", "食滯", "食譜",
     "低至", "推介", "買一送一", "營養師推薦", "紙包飲品卡路里", "快手靚湯", "治癒系繪本",
-    "WhatsApp Group", "國慶好去處", "分娩前3大重要訊號", "拼多多", "特約內容", "優惠碼"
+    "WhatsApp Group", "國慶好去處", "分娩前3大重要訊號", "拼多多", "特約內容", "優惠碼",
+    "妝容", "化妝", "造型拆解", "穿搭"
 ]
 
 MINGPAO_TEACHING_COLS = [
@@ -77,7 +78,8 @@ def is_ad_or_evergreen(title, url=""):
 
 # 外國教育新聞過濾：標題含外國地區標記且不含香港標記則剔除
 FOREIGN_MARKERS = ["韓國", "韩国", "南韓", "南韩", "韓", "韩", "日本", "美國", "美国", "英國", "英国",
-                   "台灣", "台湾", "臺灣", "新加坡", "澳洲", "加拿大", "法國", "法国", "德國", "德国", "印度"]
+                   "台灣", "台湾", "臺灣", "新加坡", "澳洲", "加拿大", "法國", "法国", "德國", "德国", "印度",
+                   "釜山", "首爾", "首尔", "東京", "东京", "大阪", "京都", "名古屋", "早苗"]
 HK_MARKERS = ["香港", "港", "大灣區", "大湾区", "灣區", "湾区", "北都"]
 
 
@@ -193,12 +195,12 @@ def collect_google_news_hk():
     queries = [
         ("香港 教育局 OR DSE OR 學校 OR 殺校 OR 縮班", False),
         ("香港 大學 OR 港大 OR 中大 OR 科大 OR 教資會 OR 研究 OR 課程", False),
-        ("香港 愛國主義工作小組 OR 鄧飛", False),
+        ("香港 蔡若蓮 OR 留學香港 OR 北都大學城 OR 鄧飛 OR 愛國主義工作小組", False),
         ("香港 教育 OR 教育局 OR DSE OR 學校 OR 升學 OR 派位 OR 選校 OR 學界 OR 校園 site:youtube.com", True),
-        ("site:hk01.com 教育 OR DSE OR 學校 OR 大學 OR 課程 OR 收生", False),
-        ("site:stheadline.com 教育 OR DSE OR 學校 OR 大學 OR 課程 OR 收生", False),
-        ("site:mingpao.com 教育 OR DSE OR 學校 OR 大學 OR 課程 OR 收生", False),
-        ("site:scmp.com Hong Kong education OR university OR DSE", False),
+        ("site:hk01.com 教育 OR DSE OR 學校 OR 小學 OR 中學 OR 教師 OR 校長 OR 大學 OR 課程 OR 收生 OR AI", False),
+        ("site:stheadline.com 教育 OR DSE OR 學校 OR 小學 OR 中學 OR 教師 OR 校長 OR 大學 OR 課程 OR 收生", False),
+        ("site:mingpao.com 教育 OR DSE OR 學校 OR 小學 OR 中學 OR 教師 OR 校長 OR 大學 OR 課程 OR 收生", False),
+        ("site:scmp.com Hong Kong education OR university OR DSE OR students", False),
         ("site:thestandard.com.hk Hong Kong education OR university OR students", False)
     ]
     results = []
@@ -216,17 +218,18 @@ def collect_google_news_hk():
                 dt = parse_rss_dt(e)
                 if not dt or not in_window(dt) or link in seen_links:
                     continue
-                if is_ad_or_evergreen(title, link):
-                    continue
-                if is_foreign_news(title):
-                    continue
-                if require_edu and not is_edu(title):
-                    continue
-                seen_links.add(link)
-                q_count += 1
+                # 先分離「 - 來源」後綴再做過濾，否則「香港01」等來源名會令外國過濾失效
                 parts = title.rsplit(" - ", 1)
                 clean_title = parts[0]
                 src_name = parts[1] if len(parts) > 1 else "港媒綜合"
+                if is_ad_or_evergreen(clean_title, link):
+                    continue
+                if is_foreign_news(clean_title):
+                    continue
+                if require_edu and not is_edu(clean_title):
+                    continue
+                seen_links.add(link)
+                q_count += 1
                 results.append({
                     "title": clean_title, "link": link, "src": src_name, "cat": "主流新聞",
                     "dt": fmt_dt(dt), "desc": clean_title
