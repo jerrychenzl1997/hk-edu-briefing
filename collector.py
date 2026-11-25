@@ -76,19 +76,22 @@ def is_ad_or_evergreen(title, url=""):
     return False
 
 
-# 外國教育新聞過濾：標題含外國地區標記且不含香港標記則剔除
+# 外國教育新聞過濾：標題含外國地區/人名標記，且標題+描述均不含香港標記則剔除。
+# 這些標記只用於「過濾」，絕不作為採集查詢目標；與香港教育密切相關的事件（含香港標記）一律保留。
 FOREIGN_MARKERS = ["韓國", "韩国", "南韓", "南韩", "韓", "韩", "日本", "美國", "美国", "英國", "英国",
                    "台灣", "台湾", "臺灣", "新加坡", "澳洲", "加拿大", "法國", "法国", "德國", "德国", "印度",
-                   "釜山", "首爾", "首尔", "東京", "东京", "大阪", "京都", "名古屋", "早苗"]
-HK_MARKERS = ["香港", "港", "大灣區", "大湾区", "灣區", "湾区", "北都"]
+                   "釜山", "首爾", "首尔", "東京", "东京", "大阪", "京都", "名古屋", "早苗",
+                   "麻省理工", "哈佛", "史丹福", "斯坦福", "牛津", "劍橋大學", "耶魯", "普林斯頓"]
+HK_MARKERS = ["香港", "港", "大灣區", "大湾区", "灣區", "湾区", "北都", "教育局", "教育局局長", "蔡若蓮"]
 
 
-def is_foreign_news(title):
+def is_foreign_news(title, desc=""):
     if not title:
         return False
     if not any(m in title for m in FOREIGN_MARKERS):
         return False
-    return not any(m in title for m in HK_MARKERS)
+    # 標題或描述含香港標記 → 與香港密切相關，保留
+    return not any(m in (title + " " + desc) for m in HK_MARKERS)
 
 
 def decode_google_news_url(gnews_url):
@@ -159,6 +162,8 @@ def collect_rss_sources():
                 if not dt or not in_window(dt):
                     continue
                 if is_ad_or_evergreen(title, link):
+                    continue
+                if is_foreign_news(title, desc[:200]):
                     continue
 
                 if mode == "mp_edu":
